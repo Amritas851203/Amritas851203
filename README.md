@@ -1,0 +1,4 @@
+# Amrita
+...........
+# 💫 About Me:
+I’m a B.Tech student at Guru Gobind Singh Indraprastha University, currently stepping into my 4th semester, with a growing interest in technology, design, and building impactful digital solutions.<br><br>I’m the Founder of GraphEra, where I work on creative design, branding, and visual storytelling, and also a Co-Founder at TechEra, a tech-driven community focused on learning, collaboration, and student growth.<br><br>I enjoy working at the intersection of design, technology, and community building. I strongly believe in learning through real-world projects, experimentation, and collaboration rather than limiting growth to theory alone.<br><br>Currently, I’m focused on enhancing my technical skills, gaining practical experience, and contributi…
