@@ -1,4 +1,4 @@
-# Amritas Singh
+# Amrita Singh
 ...........
 # 💫 About Me:
 Hi I am Amrita Singh,
