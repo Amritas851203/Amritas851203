@@ -68,11 +68,9 @@
 ![snake gif](https://github.com/Amritas851203/Amritas851203/blob/output/github-contribution-grid-snake.svg)
 
 ---
+## 💬 My Vision
 
-## 💬 Dev Quote (Aesthetic)
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+> "I don't just learn tech, I build with it and create impact."
 ---
 
 <!-- 🔥 3D WAVE FOOTER -->
