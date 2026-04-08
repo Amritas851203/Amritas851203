@@ -1,46 +1,49 @@
+<!-- 🔥 3D WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Amrita%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<!-- 🎨 BANNER -->
 ![Banner](https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.jpeg)
 
 <h1 align="center">Hey 👋, I'm Amrita Singh</h1>
 <h3 align="center">Full Stack Developer Intern | Founder @GraphEra | Co-Founder @TechEra</h3>
 
+<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+MySQL;Building+Real+World+Projects🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+MySQL;Building+Real+World+Projects🚀;Open+to+Opportunities"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech IT student @ GGSIPU  
+- 🎓 B.Tech IT @ GGSIPU  
 - 💼 Full Stack Developer Intern @Edubuk  
-- 🎨 Founder @GraphEra (Design Agency)  
-- 🤝 Co-Founder @TechEra (Tech Community)  
-- 💻 Building scalable & responsive web apps  
-- 🚀 Passionate about real-world projects & growth  
+- 🎨 Founder @GraphEra  
+- 🤝 Co-Founder @TechEra  
+- 💻 Building scalable web apps  
+- 🚀 Focused on real-world impact  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (3D Style)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,mysql,git,github,vscode&perline=5" />
 </p>
 
 ---
 
 ## 💡 Currently Learning
 
-- Advanced React  
+- Advanced React Patterns  
 - Backend Development  
-- System Design Basics  
+- System Design  
 
 ---
 
-## 📌 Featured Projects
+## 📊 3D Contribution Graph
 
-- 🚀 Portfolio Website  
-- 🎨 GraphEra Client Work  
-- 💻 Full Stack Applications  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amritas851203&theme=react-dark"/>
 
 ---
 
@@ -66,3 +69,14 @@
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Amritas851203/Amritas851203/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💬 Dev Quote (Aesthetic)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+---
+
+<!-- 🔥 3D WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
