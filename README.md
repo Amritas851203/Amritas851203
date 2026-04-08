@@ -1,4 +1,4 @@
-![Banner]([https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banner.png](https://media.licdn.com/dms/image/v2/D5616AQHUut37dKXJcg/profile-displaybackgroundimage-shrink_350_1400/B56ZrO75ISK4AY-/0/1764408402628?e=1777507200&v=beta&t=At6j-ZrkisL4C0Zw-DUKI-p3wEUZ3e3tjC0ve8Fto14))
+![Banner](https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.jpeg)
 
 <h1 align="center">Hey 👋, I'm Amrita Singh</h1>
 <h3 align="center">Full Stack Developer Intern | Founder @GraphEra | Co-Founder @TechEra</h3>
