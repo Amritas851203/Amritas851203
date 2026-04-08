@@ -63,11 +63,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Amritas851203/Amritas851203/blob/output/github-contribution-grid-snake.svg)
-
----
 ## 💬 My Vision
 
 <p align="center">
