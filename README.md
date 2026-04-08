@@ -1,5 +1,5 @@
 <!-- 🔥 3D WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Amrita%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- 🎨 BANNER -->
 ![Banner](https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.jpeg)
