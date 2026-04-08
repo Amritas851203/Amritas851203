@@ -1,13 +1,48 @@
-# Amrita Singh
-...........
-# 💫 About Me:
-Hi I am Amrita Singh,
+![Banner](https://via.placeholder.com/1500x500.png?text=Amrita+Singh)
 
-I’m a B.Tech student at Guru Gobind Singh Indraprastha University, currently stepping into my 4th semester, with a growing interest in technology, design, and building impactful digital solutions.<br><br>I’m the Founder of GraphEra, where I work on creative design, branding, and visual storytelling, and also a Co-Founder at TechEra, a tech-driven community focused on learning, collaboration, and student growth.<br><br>I enjoy working at the intersection of design, technology, and community building. I strongly believe in learning through real-world projects, experimentation, and collaboration rather than limiting growth to theory alone.<br><br>Currently, I’m focused on enhancing my technical skills, gaining practical experience, and contributing to meaningful projects while continuing my academic journey.
+<h1 align="center">Hey 👋, I'm Amrita Singh</h1>
+<h3 align="center">Full Stack Developer Intern | Founder @GraphEra | Co-Founder @TechEra</h3>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amrita-singh-579262331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amritasingh38381@gmail.com) 
+### 🚀 About Me
+- 🎓 B.Tech IT student @ GGSIPU  
+- 💼 Full Stack Developer Intern @Edubuk  
+- 🎨 Founder @GraphEra (Design Agency)  
+- 🤝 Co-Founder @TechEra (Tech Community)  
+- 💻 Building scalable web apps  
+- 🚀 Focused on real-world projects & growth  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-orange"/>
+<img src="https://img.shields.io/badge/CSS-blue"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow"/>
+<img src="https://img.shields.io/badge/React-cyan"/>
+<img src="https://img.shields.io/badge/TypeScript-blue"/>
+<img src="https://img.shields.io/badge/MySQL-lightblue"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue"/></a>
+<a href="https://amrita-potfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black"/></a>
+<a href="mailto:amritasingh38381@gmail.com"><img src="https://img.shields.io/badge/Email-red"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=radical"/>
+<img src="https://streak-stats.demolab.com/?user=Amritas851203&theme=radical"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/Amritas851203/Amritas851203/blob/output/github-contribution-grid-snake.svg)
