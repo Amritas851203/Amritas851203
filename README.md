@@ -70,7 +70,9 @@
 ---
 ## 💬 My Vision
 
-> "I don't just learn tech, I build with it and create impact."
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I+don%27t+just+learn+tech%2C+I+build+with+it+and+create+impact."/>
+</p>
 ---
 
 <!-- 🔥 3D WAVE FOOTER -->
