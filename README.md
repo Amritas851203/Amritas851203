@@ -101,14 +101,14 @@
     <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
       <h4>📈 Real Time Stock Screener</h4>
       <p><b>Financial Analytics Platform</b></p>
-      <p><font size="2" color="#cccccc">Real-time stock analysis platform with mixers, charts & indicators to track market trends dynamically.</font></p>
+      <p><font size="2" color="#cccccc">Real-time stock analysis platform built with charts, historical data tracking, and dynamic technical indicators.</font></p>
       <code>MERN Stack</code> <code>React</code> <code>Charts</code>
     </td>
     <!-- Project 2 -->
     <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
       <h4>🏢 Student Complaint Portal</h4>
       <p><b>Smart Campus Management System</b></p>
-      <p><font size="2" color="#cccccc">Smart campus complaint system for students & faculty to log infrastructure and academic grievances seamlessly.</font></p>
+      <p><font size="2" color="#cccccc">Smart campus complaints and grievance management system for students, faculty, and administrative authorities.</font></p>
       <code>MERN Stack</code> <code>Node.js</code> <code>Express</code>
     </td>
   </tr>
@@ -117,14 +117,14 @@
     <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
       <h4>🔮 GraphEra Website</h4>
       <p><b>Design & Creative Tech Brand</b></p>
-      <p><font size="2" color="#cccccc">Official website for my startup GraphEra — blending graphic design, branding, and tech to deliver digital solutions.</font></p>
+      <p><font size="2" color="#cccccc">Official creative corporate and brand portfolio website designed and developed for the GraphEra design community startup.</font></p>
       <code>React</code> <code>Tailwind CSS</code> <code>Design</code>
     </td>
     <!-- Project 4 -->
     <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
       <h4>💰 Personal Finance Tracker</h4>
       <p><b>Wealth Management App</b></p>
-      <p><font size="2" color="#cccccc">Personal finance tracker featuring interactive dashboards, category breakdowns, and predictive monthly insights.</font></p>
+      <p><font size="2" color="#cccccc">Personal budgeting and finance tracker featuring data analysis dashboards, category summaries, and monthly insights.</font></p>
       <code>MERN Stack</code> <code>MongoDB</code> <code>Data Analysis</code>
     </td>
   </tr>
@@ -133,14 +133,14 @@
     <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
       <h4>🤖 AI Resume Analyzer</h4>
       <p><b>Smart NLP Application</b></p>
-      <p><font size="2" color="#cccccc">AI powered resume analysis engine that scores alignment against modern job descriptions and provides feedback.</font></p>
+      <p><font size="2" color="#cccccc">An AI-powered smart application that analyzes modern resumes, scores ATS alignment, and gives keyword feedback.</font></p>
       <code>Python</code> <code>NLP</code> <code>Machine Learning</code>
     </td>
     <!-- Project 6 -->
     <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
       <h4>💼 Portfolio Website</h4>
       <p><b>Interactive Developer Space</b></p>
-      <p><font size="2" color="#cccccc">A sleek, professional, fully responsive portfolio website built to showcase my creative engineering work and design acts.</font></p>
+      <p><font size="2" color="#cccccc">A sleek, professional, modern personal portfolio website built to showcase software engineering work and design projects.</font></p>
       <code>React</code> <code>Tailwind CSS</code> <code>Web Dev</code>
     </td>
   </tr>
@@ -148,22 +148,27 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS (STATS, STREAKS & PIE CHARTS)
+## 📊 GITHUB ANALYTICS (STATS, STREAKS, PIE CHARTS & BAR GRAPHS)
 
 <table width="100%" border="0" cellspacing="5" cellpadding="0">
   <tr>
-    <!-- Left: Top Languages Metric Pie Chart -->
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=compact&theme=gotham&bg_color=0d061f&title_color=A970FF&text_color=ffffff&border_color=391459&hide_border=false" width="100%" alt="Top Languages Chart" />
-    </td>
-    <!-- Right: Core Profile Stats -->
+    <!-- Top Left: Core Stats Profile -->
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=gotham&bg_color=0d061f&title_color=A970FF&text_color=ffffff&icon_color=A970FF&border_color=391459&hide_border=false" width="100%" alt="Amrita's GitHub Stats" />
     </td>
+    <!-- Top Right: Commits Per Hour Bar Graph -->
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/records?username=Amritas851203&theme=gotham&bg_color=0d061f&title_color=A970FF&text_color=ffffff&icon_color=A970FF&border_color=391459&hide_border=false" width="100%" alt="Commit Activity Bar Graph" />
+    </td>
   </tr>
   <tr>
-    <!-- Bottom: Live Streak Counter Indicator -->
-    <td colspan="2" width="100%" valign="top">
+    <!-- Bottom Left: Top Languages Pie Chart by Repo -->
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=compact&theme=gotham&bg_color=0d061f&title_color=A970FF&text_color=ffffff&border_color=391459&hide_border=false" width="100%" alt="Top Languages Chart" />
+    </td>
+    <!-- Bottom Right: Live Streak Counter Indicator -->
+    <td width="50%" valign="top">
       <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritas851203&theme=gotham&background=0d061f&title=A970FF&text=ffffff&sideNums=ffffff&sideLabels=b39ddb&ring=A970FF&fire=A970FF&border=391459" width="100%" alt="GitHub Commit Streak" />
     </td>
