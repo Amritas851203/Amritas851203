@@ -9,56 +9,55 @@
 </p>
 
 <p align="center">
-  <strong>🚀 Full Stack Developer | B.Tech IT Student | Founder @GraphEra</strong>
+  <strong>🔮 Full Stack Developer | B.Tech IT Student | Founder @GraphEra</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To%20Opportunities-🟢-purple?style=flat-square" alt="Open to Opportunities"/>
-  <img src="https://img.shields.io/badge/🏫%20GGSIPU-B.Tech%20IT-blueviolet?style=flat-square" alt="GGSIPU Student"/>
-  <img src="https://img.shields.io/badge/📍%20India-Orange?style=flat-square" alt="India"/>
-  <img src="https://img.shields.io/badge/📚%20Always%20Learning-success?style=flat-square" alt="Always Learning"/>
+  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-000000?style=for-the-badge&labelColor=120a2b" alt="Open to Opportunities"/>
+  <img src="https://img.shields.io/badge/🎓%20GGSIPU-000000?style=for-the-badge&labelColor=120a2b" alt="GGSIPU"/>
+  <img src="https://img.shields.io/badge/📍%20India-000000?style=for-the-badge&labelColor=120a2b" alt="India"/>
+  <img src="https://img.shields.io/badge/📚%20Always%20Learning-000000?style=for-the-badge&labelColor=120a2b" alt="Always Learning"/>
 </p>
 
 ---
 
-## 💻 WORKSPACE DASHBOARD
+## 💻 ABOUT ME
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- Left Column: About Me -->
-    <td width="45%" valign="top">
-      <h3>👤 ABOUT ME</h3>
+    <!-- About Me Bullet Points -->
+    <td width="55%" valign="top">
       <ul>
         <li>🎓 <b>B.Tech IT Student</b> at GGSIPU</li>
-        <li>👩‍💻 <b>Full Stack Developer Intern</b> at Edubuk</li>
-        <li>✨ <b>Founder & Creator</b> of GraphEra</li>
+        <li>🏢 <b>Full Stack Developer Intern</b> at Edubuk</li>
+        <li>🚀 <b>Founder & Creator</b> of GraphEra</li>
         <li>💡 Passionate about building <b>real-world solutions</b></li>
-        <li>💜 Love to learn, explore and collaborate</li>
+        <li>🌟 Love to learn, explore and collaborate</li>
       </ul>
     </td>
-    <!-- Right Column: Dashboard Micro-Cards -->
-    <td width="55%" valign="top">
-      <table width="100%" border="0" cellspacing="8" cellpadding="12">
+    <!-- Mini Dashboard Grid Cards -->
+    <td width="45%" valign="top">
+      <table width="100%" border="0" cellspacing="6" cellpadding="0">
         <tr>
-          <td align="center" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-            🚀<br/><font size="2" color="#b39ddb">PROJECTS</font><br/>
+          <td align="center" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 15px 10px;">
+            🛸<br/><font size="2" color="#b39ddb"><b>PROJECTS</b></font><br/>
             <font size="6" color="#A970FF"><b>10+</b></font><br/>
             <font size="1" color="#8e8e93">Completed</font>
           </td>
-          <td align="center" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-            🛠️<br/><font size="2" color="#b39ddb">TECH STACK</font><br/>
+          <td align="center" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 15px 10px;">
+            ⚡<br/><font size="2" color="#b39ddb"><b>TECH STACK</b></font><br/>
             <font size="6" color="#A970FF"><b>10+</b></font><br/>
             <font size="1" color="#8e8e93">Technologies</font>
           </td>
         </tr>
         <tr>
-          <td align="center" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-            🐙<br/><font size="2" color="#b39ddb">GITHUB</font><br/>
+          <td align="center" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 15px 10px;">
+            🐙<br/><font size="2" color="#b39ddb"><b>GITHUB</b></font><br/>
             <font size="6" color="#A970FF"><b>70+</b></font><br/>
             <font size="1" color="#8e8e93">Contributions</font>
           </td>
-          <td align="center" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-            🎯<br/><font size="2" color="#b39ddb">GOAL</font><br/>
+          <td align="center" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 15px 10px;">
+            🎯<br/><font size="2" color="#b39ddb"><b>GOAL</b></font><br/>
             <font size="6" color="#A970FF"><b>SDE</b></font><br/>
             <font size="1" color="#8e8e93">Role</font>
           </td>
@@ -70,24 +69,28 @@
 
 ---
 
-## 🛠️ TECH ARSENAL
+## 🛠️ TECH STACK
 
-<table width="100%" border="0" cellpadding="8" cellspacing="5">
-  <tr bgcolor="#0d061f" style="border: 1px solid #391459;">
-    <td width="25%" align="center"><b>💻 Languages & Core</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,java,py" alt="Languages"/></a></td>
+<table width="100%" border="0" cellpadding="10" cellspacing="6">
+  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
+    <td width="20%" align="center" style="border-radius: 8px;"><b>Frontend</b></td>
+    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,ts" alt="Frontend"/></a></td>
   </tr>
-  <tr bgcolor="#0d061f" style="border: 1px solid #391459;">
-    <td width="25%" align="center"><b>🌿 Frameworks & Libraries</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts" alt="Frameworks"/></a></td>
+  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
+    <td width="20%" align="center" style="border-radius: 8px;"><b>Backend</b></td>
+    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/></a></td>
   </tr>
-  <tr bgcolor="#0d061f" style="border: 1px solid #391459;">
-    <td width="25%" align="center"><b>🗄️ Databases</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/></a></td>
+  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
+    <td width="20%" align="center" style="border-radius: 8px;"><b>Database</b></td>
+    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database"/></a></td>
   </tr>
-  <tr bgcolor="#0d061f" style="border: 1px solid #391459;">
-    <td width="25%" align="center"><b>🛠️ Tools & Platforms</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools"/></a></td>
+  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
+    <td width="20%" align="center" style="border-radius: 8px;"><b>Tools & Platforms</b></td>
+    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools"/></a></td>
+  </tr>
+  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
+    <td width="20%" align="center" style="border-radius: 8px;"><b>Others</b></td>
+    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="Others"/></a></td>
   </tr>
 </table>
 
@@ -95,116 +98,57 @@
 
 ## ⭐ FEATURED PROJECTS
 
-<table width="100%" border="0" cellspacing="10" cellpadding="10">
+<table width="100%" border="0" cellspacing="8" cellpadding="12">
   <tr>
     <!-- Project 1 -->
-    <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
-      <h4>📈 Real Time Stock Screener</h4>
-      <p><b>Financial Analytics Platform</b></p>
-      <p><font size="2" color="#cccccc">Real-time stock analysis platform built with charts, historical data tracking, and dynamic technical indicators.</font></p>
-      <code>MERN Stack</code> <code>React</code> <code>Charts</code>
+    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
+      <p align="center">📈</p>
+      <h4>Stock Screener</h4>
+      <p><font size="2" color="#cccccc">Real-time stock analysis platform with mixers, charts & indicators.</font></p>
+      <br/>
+      <font size="1" color="#A970FF"><b>MERN Stack</b></font>
     </td>
     <!-- Project 2 -->
-    <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
-      <h4>🏢 Student Complaint Portal</h4>
-      <p><b>Smart Campus Management System</b></p>
-      <p><font size="2" color="#cccccc">Smart campus complaints and grievance management system for students, faculty, and administrative authorities.</font></p>
-      <code>MERN Stack</code> <code>Node.js</code> <code>Express</code>
+    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
+      <p align="center">🏢</p>
+      <h4>Complaint Portal</h4>
+      <p><font size="2" color="#cccccc">Smart campus complaint system for students & faculty.</font></p>
+      <br/>
+      <font size="1" color="#A970FF"><b>MERN Stack</b></font>
     </td>
-  </tr>
-  <tr>
     <!-- Project 3 -->
-    <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
-      <h4>🔮 GraphEra Website</h4>
-      <p><b>Design & Creative Tech Brand</b></p>
-      <p><font size="2" color="#cccccc">Official creative corporate and brand portfolio website designed and developed for the GraphEra design community startup.</font></p>
-      <code>React</code> <code>Tailwind CSS</code> <code>Design</code>
-    </td>
-    <!-- Project 4 -->
-    <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
-      <h4>💰 Personal Finance Tracker</h4>
-      <p><b>Wealth Management App</b></p>
-      <p><font size="2" color="#cccccc">Personal budgeting and finance tracker featuring data analysis dashboards, category summaries, and monthly insights.</font></p>
-      <code>MERN Stack</code> <code>MongoDB</code> <code>Data Analysis</code>
+    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
+      <p align="center">🔮</p>
+      <h4>GraphEra Website</h4>
+      <p><font size="2" color="#cccccc">Official website for my startup GraphEra.</font></p>
+      <br/>
+      <font size="1" color="#A970FF"><b>React • Tailwind</b></font>
     </td>
   </tr>
   <tr>
+    <!-- Project 4 -->
+    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
+      <p align="center">💼</p>
+      <h4>Finance Tracker</h4>
+      <p><font size="2" color="#cccccc">Personal finance tracker with analysis & insights.</font></p>
+      <br/>
+      <font size="1" color="#A970FF"><b>MERN Stack</b></font>
+    </td>
     <!-- Project 5 -->
-    <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
-      <h4>🤖 AI Resume Analyzer</h4>
-      <p><b>Smart NLP Application</b></p>
-      <p><font size="2" color="#cccccc">An AI-powered smart application that analyzes modern resumes, scores ATS alignment, and gives keyword feedback.</font></p>
-      <code>Python</code> <code>NLP</code> <code>Machine Learning</code>
+    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
+      <p align="center">🤖</p>
+      <h4>AI Resume Analyzer</h4>
+      <p><font size="2" color="#cccccc">AI powered resume analysis and improvement suggestions.</font></p>
+      <br/>
+      <font size="1" color="#A970FF"><b>Python • NLP</b></font>
     </td>
     <!-- Project 6 -->
-    <td width="50%" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;" valign="top">
-      <h4>💼 Portfolio Website</h4>
-      <p><b>Interactive Developer Space</b></p>
-      <p><font size="2" color="#cccccc">A sleek, professional, modern personal portfolio website built to showcase software engineering work and design projects.</font></p>
-      <code>React</code> <code>Tailwind CSS</code> <code>Web Dev</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GITHUB ANALYTICS (STATS, STREAKS, PIE CHARTS & BAR GRAPHS)
-
-<table width="100%" border="0" cellspacing="5" cellpadding="0">
-  <tr>
-    <!-- Top Left: Core Stats Profile -->
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=gotham&bg_color=0d061f&title_color=A970FF&text_color=ffffff&icon_color=A970FF&border_color=391459&hide_border=false" width="100%" alt="Amrita's GitHub Stats" />
-    </td>
-    <!-- Top Right: Commits Per Hour Bar Graph -->
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/records?username=Amritas851203&theme=gotham&bg_color=0d061f&title_color=A970FF&text_color=ffffff&icon_color=A970FF&border_color=391459&hide_border=false" width="100%" alt="Commit Activity Bar Graph" />
-    </td>
-  </tr>
-  <tr>
-    <!-- Bottom Left: Top Languages Pie Chart by Repo -->
-    <td width="50%" valign="top">
+    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
+      <p align="center">👤</p>
+      <h4>Portfolio Website</h4>
+      <p><font size="2" color="#cccccc">My personal portfolio to showcase my work & acts.</font></p>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=compact&theme=gotham&bg_color=0d061f&title_color=A970FF&text_color=ffffff&border_color=391459&hide_border=false" width="100%" alt="Top Languages Chart" />
-    </td>
-    <!-- Bottom Right: Live Streak Counter Indicator -->
-    <td width="50%" valign="top">
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritas851203&theme=gotham&background=0d061f&title=A970FF&text=ffffff&sideNums=ffffff&sideLabels=b39ddb&ring=A970FF&fire=A970FF&border=391459" width="100%" alt="GitHub Commit Streak" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🗺️ MY ECOSYSTEM FLOW
-
-<table width="100%" border="0" cellspacing="0" cellpadding="10" bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-  <tr>
-    <td align="center">
-      <h3>🔮 AMRITA SINGH ECOSYSTEM</h3>
-      <pre>
-          ┌─────────────────────────────────────────────────────────┐
-          │                    💻 Development                       │
-          │     • HTML/CSS/JS  • React.js  • Java  • Python         │
-          │     • MongoDB & MySQL         • Git & GitHub            │
-          └────────────────────────────┬────────────────────────────┘
-                                       │
-            ┌──────────────────────────┼──────────────────────────┐
-            ▼                          ▼                          ▼
-┌───────────────────────┐  ┌───────────────────────┐  ┌───────────────────────┐
-│       🚀 Startup      │  │      🧠 Design        │  │     🤝 Community      │
-│ • GraphEra - Founder  │  │ • Figma               │  │ • Network Building    │
-│ • Product Building    │  │ • UI / UX Design      │  │ • Mentorship          │
-│ • Brand Growth        │  │ • GraphEra Projects   │  │ • Knowledge Sharing   │
-└───────────────────────┘  └───────────────────────┘  └───────────────────────┘
-                                       │
-                                       ▼
-          ┌─────────────────────────────────────────────────────────┐
-          │                    🎯 Future Goals                      │
-          │         • Software Internship   • Full Stack Mastery    │
-          └─────────────────────────────────────────────────────────┘
-      </pre>
+      <font size="1" color="#A970FF"><b>React • Tailwind</b></font>
     </td>
   </tr>
 </table>
@@ -213,12 +157,83 @@
 
 ## 🏆 ACHIEVEMENTS
 
-| 🏅 Achievement | 📌 Description |
-| :--- | :--- |
-| 👑 **Founder — GraphEra** | Built a design-focused creative tech brand from the ground up. |
-| 🏢 **Full Stack Developer Intern** | Completed engineering tenure at Edubuk building real-world software applications. |
-| 💡 **Hackathon Participant** | Collaborated under pressure to solve architecture challenges and build prototypes. |
-| 🤝 **Active Learner & Builder** | Constantly engineering in public, expanding expertise across system layout and web tools. |
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px; padding: 15px;">
+      <ul>
+        <li>👑 <b>Founder of GraphEra</b> — Building a design-focused creative tech brand.</li><br/>
+        <li>🏢 <b>Full Stack Developer Intern @ Edubuk</b> — Working on real-world projects and improving skills.</li><br/>
+        <li>🔥 <b>Active Contributor</b> — Consistent GitHub contributions and project building.</li><br/>
+        <li>🏆 <b>Hackathon Enthusiast</b> — Participated in multiple hackathons and events.</li><br/>
+        <li>🌟 <b>Always Learning</b> — Exploring new technologies and building in public.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<table width="100%" border="0" cellspacing="6" cellpadding="0">
+  <tr>
+    <!-- Stats Card -->
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=gotham&bg_color=120a2b&title_color=A970FF&text_color=ffffff&icon_color=A970FF&border_color=391459&hide_border=false" width="100%" alt="Stats"/>
+    </td>
+    <!-- Commits Bar Graph Card -->
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/records?username=Amritas851203&theme=gotham&bg_color=120a2b&title_color=A970FF&text_color=ffffff&icon_color=A970FF&border_color=391459&hide_border=false" width="100%" alt="Commits Chart"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Top Languages Pie Chart -->
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=compact&theme=gotham&bg_color=120a2b&title_color=A970FF&text_color=ffffff&border_color=391459&hide_border=false" width="100%" alt="Languages Chart"/>
+    </td>
+    <!-- Contribution Streak Card -->
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritas851203&theme=gotham&background=120a2b&title=A970FF&text=ffffff&sideNums=ffffff&sideLabels=b39ddb&ring=A970FF&fire=A970FF&border=391459" width="100%" alt="Streak Card"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🗺️ AMRITA SINGH ECOSYSTEM
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px;">
+  <tr>
+    <td align="center">
+      <br/>
+      <pre>
+          <font color="#A970FF"><b>┌─────────────────────────────────────────────────────────┐</b></font>
+          <font color="#A970FF"><b>│</b></font>                    💻 <font color="#ffffff"><b>Development</b></font>                       <font color="#A970FF"><b>│</b></font>
+          <font color="#A970FF"><b>│</b></font>     • HTML/CSS/JS  • React.js  • Java  • Python         <font color="#A970FF"><b>│</b></font>
+          <font color="#A970FF"><b>│</b></font>     • MongoDB & MySQL         • Git & GitHub            <font color="#A970FF"><b>│</b></font>
+          <font color="#A970FF"><b>└────────────────────────────┬────────────────────────────┘</b></font>
+                                       │
+            ┌──────────────────────────┼──────────────────────────┐
+            ▼                          ▼                          ▼
+<font color="#391459">┌───────────────────────┐</font>  <font color="#391459">┌───────────────────────┐</font>  <font color="#391459">┌───────────────────────┐</font>
+<font color="#391459">│</font>       🚀 <font color="#ffffff"><b>Startup</b></font>      <font color="#391459">│</font>  <font color="#391459">│</font>      🧠 <font color="#ffffff"><b>Design</b></font>        <font color="#391459">│</font>  <font color="#391459">│</font>     🤝 <font color="#ffffff"><b>Community</b></font>      <font color="#391459">│</font>
+<font color="#391459">│</font> • GraphEra - Founder  <font color="#391459">│</font>  <font color="#391459">│</font> • Figma               <font color="#391459">│</font>  <font color="#391459">│</font> • Network Building    <font color="#391459">│</font>
+<font color="#391459">│</font> • Product Building    <font color="#391459">│</font>  <font color="#391459">│</font> • UI / UX Design      <font color="#391459">│</font>  <font color="#391459">│</font> • Mentorship          <font color="#391459">│</font>
+<font color="#391459">│</font> • Brand Growth        <font color="#391459">│</font>  <font color="#391459">│</font> • GraphEra Projects   <font color="#391459">│</font>  <font color="#391459">│</font> • Knowledge Sharing   <font color="#391459">│</font>
+<font color="#391459">└───────────────────────┘</font>  <font color="#391459">└───────────────────────┘</font>  <font color="#391459">└───────────────────────┘</font>
+                                       │
+                                       ▼
+          <font color="#A970FF"><b>┌─────────────────────────────────────────────────────────┐</b></font>
+          <font color="#A970FF"><b>│</b></font>                    🎯 <font color="#ffffff"><b>Future Goals</b></font>                      <font color="#A970FF"><b>│</b></font>
+          <font color="#A970FF"><b>│</b></font>         • Software Internship   • Full Stack Mastery    <font color="#A970FF"><b>│</b></font>
+          <font color="#A970FF"><b>└─────────────────────────────────────────────────────────┘</b></font>
+      </pre>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -226,20 +241,20 @@
 
 <table width="100%" border="0" cellspacing="5" cellpadding="10" align="center">
   <tr align="center">
-    <td bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-      ☕<br/><b>DSA in Java</b><br/><font size="1" color="#a19da8">Improving problem-solving skills</font>
+    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
+      ☕<br/><b>DSA in Java</b><br/><font size="1" color="#b39ddb">Improving problem-solving</font>
     </td>
-    <td bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-      ⚙️<br/><b>Backend Engineering</b><br/><font size="1" color="#a19da8">Building scalable & secure APIs</font>
+    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
+      ⚙️<br/><b>Backend Dev</b><br/><font size="1" color="#b39ddb">Building secure APIs</font>
     </td>
-    <td bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-      🏗️<br/><b>System Design</b><br/><font size="1" color="#a19da8">Learning low-level & high-level design</font>
+    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
+      🏗️<br/><b>System Design</b><br/><font size="1" color="#b39ddb">Low & High level architecture</font>
     </td>
-    <td bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-      🌐<br/><b>Open Source</b><br/><font size="1" color="#a19da8">Contributing to open source projects</font>
+    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
+      🌐<br/><b>Open Source</b><br/><font size="1" color="#b39ddb">Contributing to codebases</font>
     </td>
-    <td bgcolor="#0d061f" style="border: 1px solid #391459; border-radius: 8px;">
-      🚀<br/><b>Product Building</b><br/><font size="1" color="#a19da8">Building real-world solutions</font>
+    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
+      🚀<br/><b>Product Building</b><br/><font size="1" color="#b39ddb">Creating production systems</font>
     </td>
   </tr>
 </table>
@@ -263,5 +278,5 @@
 ---
 
 <p align="center">
-  <b>❝ Don't just learn technology. Build solutions that create impact. ❞</b> <br/> 💜
+  <i>❝ Don't just learn technology. Build solutions that create impact. ❞</i> <br/> 💜
 </p>
