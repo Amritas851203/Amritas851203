@@ -88,67 +88,66 @@
     <td width="20%" align="center" style="border-radius: 8px;"><b>Tools & Platforms</b></td>
     <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools"/></a></td>
   </tr>
-  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
-    <td width="20%" align="center" style="border-radius: 8px;"><b>Others</b></td>
-    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="Others"/></a></td>
-  </tr>
 </table>
 
 ---
 
-## ⭐ FEATURED PROJECTS
+## ⭐️ FEATURED PROJECTS
 
-<table width="100%" border="0" cellspacing="8" cellpadding="12">
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
   <tr>
     <!-- Project 1 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">📈</p>
-      <h4>Stock Screener</h4>
+    <td width="33%" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 20px 15px;" valign="top">
+      <p align="center"><img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/Timeline/SVG/ic_fluid_timeline_24_filled.svg" width="32" color="#A970FF"/></p>
+      <h3 align="center"><font color="#ffffff">Stock Screener</font></h3>
       <p><font size="2" color="#cccccc">Real-time stock analysis platform with mixers, charts & indicators.</font></p>
-      <br/>
-      <font size="1" color="#A970FF"><b>MERN Stack</b></font>
+      <br/><br/>
+      <p align="left"><font size="2" color="#A970FF"><b>MERN Stack</b></font></p>
     </td>
     <!-- Project 2 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">🏢</p>
-      <h4>Complaint Portal</h4>
+    <td width="33%" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 20px 15px;" valign="top">
+      <p align="center"><img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/City/SVG/ic_fluid_city_24_filled.svg" width="32"/></p>
+      <h3 align="center"><font color="#ffffff">Complaint Portal</font></h3>
       <p><font size="2" color="#cccccc">Smart campus complaint system for students & faculty.</font></p>
-      <br/>
-      <font size="1" color="#A970FF"><b>MERN Stack</b></font>
+      <br/><br/>
+      <p align="left"><font size="2" color="#A970FF"><b>MERN Stack</b></font></p>
     </td>
     <!-- Project 3 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">🔮</p>
-      <h4>GraphEra Website</h4>
+    <td width="33%" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 20px 15px;" valign="top">
+      <p align="center"><img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/Sparkle/SVG/ic_fluid_sparkle_24_filled.svg" width="32"/></p>
+      <h3 align="center"><font color="#ffffff">GraphEra Website</font></h3>
       <p><font size="2" color="#cccccc">Official website for my startup GraphEra.</font></p>
-      <br/>
-      <font size="1" color="#A970FF"><b>React • Tailwind</b></font>
+      <br/><br/>
+      <p align="left"><font size="2" color="#A970FF"><b>React • Tailwind</b></font></p>
     </td>
   </tr>
   <tr>
     <!-- Project 4 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">💼</p>
-      <h4>Finance Tracker</h4>
-      <p><font size="2" color="#cccccc">Personal finance tracker with analysis & insights.</font></p>
+    <td width="33%" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 20px 15px;" valign="top">
       <br/>
-      <font size="1" color="#A970FF"><b>MERN Stack</b></font>
+      <p align="center"><img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/Briefcase/SVG/ic_fluid_briefcase_24_filled.svg" width="32"/></p>
+      <h3 align="center"><font color="#ffffff">Finance Tracker</font></h3>
+      <p><font size="2" color="#cccccc">Personal finance tracker with analysis & insights.</font></p>
+      <br/><br/>
+      <p align="left"><font size="2" color="#A970FF"><b>MERN Stack</b></font></p>
     </td>
     <!-- Project 5 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">🤖</p>
-      <h4>AI Resume Analyzer</h4>
-      <p><font size="2" color="#cccccc">AI powered resume analysis and improvement suggestions.</font></p>
+    <td width="33%" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 20px 15px;" valign="top">
       <br/>
-      <font size="1" color="#A970FF"><b>Python • NLP</b></font>
+      <p align="center"><img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/Bot/SVG/ic_fluid_bot_24_filled.svg" width="32"/></p>
+      <h3 align="center"><font color="#ffffff">AI Resume Analyzer</font></h3>
+      <p><font size="2" color="#cccccc">AI powered resume analysis and improvement suggestions.</font></p>
+      <br/><br/>
+      <p align="left"><font size="2" color="#A970FF"><b>Python • NLP</b></font></p>
     </td>
     <!-- Project 6 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">👤</p>
-      <h4>Portfolio Website</h4>
-      <p><font size="2" color="#cccccc">My personal portfolio to showcase my work & acts.</font></p>
+    <td width="33%" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 20px 15px;" valign="top">
       <br/>
-      <font size="1" color="#A970FF"><b>React • Tailwind</b></font>
+      <p align="center"><img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/Person/SVG/ic_fluid_person_24_filled.svg" width="32"/></p>
+      <h3 align="center"><font color="#ffffff">Portfolio Website</font></h3>
+      <p><font size="2" color="#cccccc">My personal portfolio to showcase my work & acts.</font></p>
+      <br/><br/>
+      <p align="left"><font size="2" color="#A970FF"><b>React • Tailwind</b></font></p>
     </td>
   </tr>
 </table>
@@ -159,13 +158,12 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px; padding: 15px;">
+    <td bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 15px;">
       <ul>
         <li>👑 <b>Founder of GraphEra</b> — Building a design-focused creative tech brand.</li><br/>
         <li>🏢 <b>Full Stack Developer Intern @ Edubuk</b> — Working on real-world projects and improving skills.</li><br/>
         <li>🔥 <b>Active Contributor</b> — Consistent GitHub contributions and project building.</li><br/>
-        <li>🏆 <b>Hackathon Enthusiast</b> — Participated in multiple hackathons and events.</li><br/>
-        <li>🌟 <b>Always Learning</b> — Exploring new technologies and building in public.</li>
+        <li>🏆 <b>Hackathon Enthusiast</b> — Participated in multiple hackathons and events.</li>
       </ul>
     </td>
   </tr>
@@ -217,12 +215,12 @@
                                        │
             ┌──────────────────────────┼──────────────────────────┐
             ▼                          ▼                          ▼
-<font color="#391459">┌───────────────────────┐</font>  <font color="#391459">┌───────────────────────┐</font>  <font color="#391459">┌───────────────────────┐</font>
-<font color="#391459">│</font>       🚀 <font color="#ffffff"><b>Startup</b></font>      <font color="#391459">│</font>  <font color="#391459">│</font>      🧠 <font color="#ffffff"><b>Design</b></font>        <font color="#391459">│</font>  <font color="#391459">│</font>     🤝 <font color="#ffffff"><b>Community</b></font>      <font color="#391459">│</font>
-<font color="#391459">│</font> • GraphEra - Founder  <font color="#391459">│</font>  <font color="#391459">│</font> • Figma               <font color="#391459">│</font>  <font color="#391459">│</font> • Network Building    <font color="#391459">│</font>
-<font color="#391459">│</font> • Product Building    <font color="#391459">│</font>  <font color="#391459">│</font> • UI / UX Design      <font color="#391459">│</font>  <font color="#391459">│</font> • Mentorship          <font color="#391459">│</font>
-<font color="#391459">│</font> • Brand Growth        <font color="#391459">│</font>  <font color="#391459">│</font> • GraphEra Projects   <font color="#391459">│</font>  <font color="#391459">│</font> • Knowledge Sharing   <font color="#391459">│</font>
-<font color="#391459">└───────────────────────┘</font>  <font color="#391459">└───────────────────────┘</font>  <font color="#391459">└───────────────────────┘</font>
+<font color="#A970FF">┌───────────────────────┐</font>  <font color="#A970FF">┌───────────────────────┐</font>  <font color="#A970FF">┌───────────────────────┐</font>
+<font color="#A970FF">│</font>       🚀 <font color="#ffffff"><b>Startup</b></font>      <font color="#A970FF">│</font>  <font color="#A970FF">│</font>      🧠 <font color="#ffffff"><b>Design</b></font>        <font color="#A970FF">│</font>  <font color="#A970FF">│</font>     🤝 <font color="#ffffff"><b>Community</b></font>      <font color="#A970FF">│</font>
+<font color="#A970FF">│</font> • GraphEra - Founder  <font color="#A970FF">│</font>  <font color="#A970FF">│</font> • Figma               <font color="#A970FF">│</font>  <font color="#A970FF">│</font> • Network Building    <font color="#A970FF">│</font>
+<font color="#A970FF">│</font> • Product Building    <font color="#A970FF">│</font>  <font color="#A970FF">│</font> • UI / UX Design      <font color="#A970FF">│</font>  <font color="#A970FF">│</font> • Mentorship          <font color="#A970FF">│</font>
+<font color="#A970FF">│</font> • Brand Growth        <font color="#A970FF">│</font>  <font color="#A970FF">│</font> • GraphEra Projects   <font color="#A970FF">│</font>  <font color="#A970FF">│</font> • Knowledge Sharing   <font color="#A970FF">│</font>
+<font color="#A970FF">└───────────────────────┘</font>  <font color="#A970FF">└───────────────────────┘</font>  <font color="#A970FF">└───────────────────────┘</font>
                                        │
                                        ▼
           <font color="#A970FF"><b>┌─────────────────────────────────────────────────────────┐</b></font>
@@ -278,5 +276,5 @@
 ---
 
 <p align="center">
-  <i>❝ Don't just learn technology. Build solutions that create impact. ❞</i> <br/> 💜
+  <b>❝ Don't just learn technology. Build solutions that create impact. ❞</b> <br/> 💜
 </p>
