@@ -1,44 +1,91 @@
+<div align="center">
+
+<img src="banneramrita.jpeg" width="100%"/>
+
+# Hi 👋 I'm Amrita Singh
+
+### Full Stack Developer | B.Tech IT Student | Founder @GraphEra
+
+Building scalable web applications and solving real-world problems through technology.
+
+🚀 Open to Software Development Internships
+
+</div>
+
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 About Me
 
-### 📈 Real-Time Stock Screener
-Built a high-performance stock screener inspired by Screener.in and Finviz with advanced filtering, technical indicators, and interactive charts.
-
-### 🎓 Smart Campus Complaint Portal
-A full-stack platform that streamlines issue reporting and resolution for students and faculty with role-based dashboards.
-
-### 🌐 GraphEra
-A modern web solutions platform focused on building scalable digital products and impactful user experiences.
-
-### 🤖 AI Resume Analyzer
-An AI-powered application that analyzes resumes, identifies gaps, and provides personalized improvement suggestions.
+- 🎓 B.Tech IT Student @ GGSIPU
+- 💼 Full Stack Developer Intern @ Edubuk
+- 🚀 Founder @ GraphEra
+- 🌱 Passionate about Full Stack Development
+- 💻 Building real-world web applications
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
 ## 🏆 Achievements
 
-- 🎯 B.Tech IT Student at GGSIPU
-- 💼 Full Stack Developer Intern @Edubuk
-- 🚀 Founder @GraphEra
-- 👥 Co-Founder @TechEra
-- 📚 Consistently learning DSA, System Design & Full Stack Development
-- 🌱 Building real-world projects with modern web technologies
+- 🚀 Founder of GraphEra
+- 💼 Full Stack Developer Intern @ Edubuk
+- 🎓 Active B.Tech IT Student
+- 🏆 Participated in Hackathons
+- 🌱 Built Multiple Full Stack Projects
+- 💻 Consistently Learning New Technologies
 
 ---
 
-## 🎯 2026 Goals
+## ⚒️ Tech Stack
 
-- Solve 300+ DSA Problems
-- Build 5 Production-Ready Projects
-- Contribute to Open Source
-- Secure a Top Software Development Internship
-- Strengthen System Design & Backend Skills
+### Frontend
+HTML • CSS • JavaScript • React • TypeScript • Tailwind CSS
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB • MySQL
+
+### Tools
+Git • GitHub • VS Code • Figma • Vercel
 
 ---
 
-## 💡 Developer Philosophy
+## 🚀 Featured Projects
 
-> "I don't just learn technology — I build solutions that create real-world impact."
+### 📈 Real-Time Stock Screener
+Advanced stock analysis platform with real-time filtering and technical indicators.
+
+### 🎓 Smart Campus Complaint Portal
+Role-based complaint management system for students and faculty.
+
+### 🌐 GraphEra Website
+Modern startup website focused on branding and web solutions.
+
+### 💰 Personal Finance Tracker
+Expense management dashboard with analytics and visual insights.
 
 ---
+
+## 🎯 Current Focus
+
+- Data Structures & Algorithms (Java)
+- Next.js Development
+- Backend Engineering
+- System Design
+- Production Ready Projects
+
+---
+
+## 💡 Philosophy
+
+> Don't just learn technology. Build solutions that make an impact.
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
