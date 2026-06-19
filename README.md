@@ -4,8 +4,9 @@
 
 # Hi 👋 I'm Amrita Singh
 
-### Full Stack Developer | B.Tech IT Student | Founder @GraphEra
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+GraphEra;Learning+DSA+in+Java;Open+to+Internships" />
+</p>
 Building scalable web applications and solving real-world problems through technology.
 
 🚀 Open to Software Development Internships
@@ -35,8 +36,22 @@ Building scalable web applications and solving real-world problems through techn
 - 💻 Consistently Learning New Technologies
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Amritas851203&theme=algolia&row=1&column=6" />
+</p>
+
+---
+
 
 ## ⚒️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+</p>
+
+---
 
 ### Frontend
 HTML • CSS • JavaScript • React • TypeScript • Tailwind CSS
