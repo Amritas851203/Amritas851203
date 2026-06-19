@@ -4,48 +4,69 @@
 
 # Hi 👋 I'm Amrita Singh
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+GraphEra;Learning+DSA+in+Java;Open+to+Internships" />
-</p>
-Building scalable web applications and solving real-world problems through technology.
 
-🚀 Open to Software Development Internships
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech IT Student @ GGSIPU
-- 💼 Full Stack Developer Intern @ Edubuk
-- 🚀 Founder @ GraphEra
-- 🌱 Passionate about Full Stack Development
-- 💻 Building real-world web applications
-- 🎯 Goal: Become a Software Engineer
-
----
-
-## 🏆 Achievements
-
-- 🚀 Founder of GraphEra
-- 💼 Full Stack Developer Intern @ Edubuk
-- 🎓 Active B.Tech IT Student
-- 🏆 Participated in Hackathons
-- 🌱 Built Multiple Full Stack Projects
-- 💻 Consistently Learning New Technologies
-
----
-## 🏆 GitHub Trophies
+### Full Stack Developer • Founder @GraphEra • B.Tech IT Student
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amritas851203&theme=algolia&row=1&column=6" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+GraphEra;Learning+DSA+in+Java;Open+to+Internships" />
 </p>
 
 ---
 
+# 🚀 MY ECOSYSTEM
 
-## ⚒️ Tech Stack
+<table align="center">
+<tr>
+<td>
+
+### 💻 Development
+- HTML / CSS / JavaScript
+- React.js
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB & MySQL
+- Git & GitHub
+
+</td>
+
+<td>
+
+### 🚀 Startup
+- Founder — GraphEra
+- Product Building
+- Web Development
+- Brand Growth
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌐 Community
+- Tech Events
+- Networking
+- Collaboration
+- Knowledge Sharing
+
+</td>
+
+<td>
+
+### 🎯 Future Goals
+- Software Internship
+- Open Source Contribution
+- System Design
+- Full Stack Mastery
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚔️ TECH ARSENAL
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
@@ -53,54 +74,68 @@ Building scalable web applications and solving real-world problems through techn
 
 ---
 
-### Frontend
-HTML • CSS • JavaScript • React • TypeScript • Tailwind CSS
+# 🚀 FEATURED PROJECTS
 
-### Backend
-Node.js • Express.js
-
-### Database
-MongoDB • MySQL
-
-### Tools
-Git • GitHub • VS Code • Figma • Vercel
-
----
-
-## 🚀 Featured Projects
-
-### 📈 Real-Time Stock Screener
-Advanced stock analysis platform with real-time filtering and technical indicators.
-
-### 🎓 Smart Campus Complaint Portal
-Role-based complaint management system for students and faculty.
-
-### 🌐 GraphEra Website
-Modern startup website focused on branding and web solutions.
-
-### 💰 Personal Finance Tracker
-Expense management dashboard with analytics and visual insights.
+| Project | Description |
+|----------|------------|
+| 📈 Stock Screener | Real-time stock analysis platform inspired by Screener.in |
+| 🎓 Complaint Portal | Smart campus complaint management system |
+| 🌐 GraphEra | Startup website & digital solutions platform |
+| 💰 Finance Tracker | Expense management dashboard |
+| 🤖 AI Resume Analyzer | Resume analysis using AI |
+| 📝 Portfolio Website | Personal developer portfolio |
 
 ---
 
-## 🎯 Current Focus
+# 🏆 ACHIEVEMENTS
+
+| Achievement | Description |
+|------------|-------------|
+| 🚀 Founder @ GraphEra | Building a modern tech platform |
+| 💼 Full Stack Intern @ Edubuk | Working on real-world development |
+| 🎓 B.Tech IT Student | GGSIPU |
+| 🏆 Hackathon Participant | Collaborative problem solving |
+| 💻 Web Developer | Multiple deployed projects |
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎯 CURRENT FOCUS
 
 - Data Structures & Algorithms (Java)
-- Next.js Development
 - Backend Engineering
 - System Design
-- Production Ready Projects
+- MERN Stack Development
+- Building Production-Ready Projects
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+LinkedIn
+</a> •
+<a href="YOUR_PORTFOLIO">
+Portfolio
+</a> •
+<a href="mailto:YOUR_EMAIL">
+Email
+</a>
+
+</p>
 
 ---
 
 ## 💡 Philosophy
 
-> Don't just learn technology. Build solutions that make an impact.
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn
-- Portfolio
-- Email
+> "Don't just learn technology. Build solutions that create real-world impact."
