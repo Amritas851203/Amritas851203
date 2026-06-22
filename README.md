@@ -1,44 +1,35 @@
 <div align="center">
 
-<img src="banneramrita.jpeg" width="100%" alt="Amrita Singh"/>
+<!-- Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Amrita%20Singh&fontSize=60&fontColor=A970FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20%40%20GraphEra&descAlignY=60&descSize=18&descColor=b39ddb" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Amrita+Singh;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Building+Real+World+Products;%F0%9F%8C%B1+Lifelong+Learner;%E2%9C%A8+Founder+%26+Creator" alt="Typing SVG"/>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Amrita+Singh!;%F0%9F%92%BB+Full+Stack+Developer+%26+Builder;%F0%9F%9A%80+Founder+%40+GraphEra;%F0%9F%8C%B1+B.Tech+IT+%40+GGSIPU%2C+Delhi;%E2%9C%A8+Building+Products+That+Matter" alt="Typing SVG" />
 
 <br/><br/>
 
-<strong style="font-size:18px;">Full Stack Developer · Founder @GraphEra · B.Tech IT @ GGSIPU</strong>
-
-<br/><br/>
-
+<!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Amritas851203&color=A970FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Amritas851203?style=for-the-badge&color=A970FF&labelColor=120a2b&label=FOLLOWERS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Amritas851203?style=for-the-badge&color=7C4DFF&labelColor=120a2b&label=FOLLOWERS)
+&nbsp;
 ![Open To Work](https://img.shields.io/badge/🟢_OPEN_TO_OPPORTUNITIES-120a2b?style=for-the-badge&labelColor=391459)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=391459&height=2&section=header" width="100%"/>
+---
 
-<br/>
+## 💜 About Me
 
-## 💜 ABOUT ME
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%">
 <tr>
-<td width="54%" valign="top">
+<td width="55%" valign="top">
 
 ```
 ╔══════════════════════════════════════════╗
@@ -58,238 +49,148 @@
 ```
 
 </td>
-<td width="4%"></td>
-<td width="42%" valign="top">
+<td width="5%"></td>
+<td width="40%" valign="top">
 
-<table width="100%" border="0" cellspacing="6" cellpadding="0">
-<tr>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 14px 8px;">
-<img src="https://img.shields.io/badge/10+-A970FF?style=flat-square" alt=""/><br/>
-<strong><font color="#b39ddb">PROJECTS</font></strong><br/>
-<font size="1" color="#8e8e93">Completed & Live</font>
-</td>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 14px 8px;">
-<img src="https://img.shields.io/badge/10+-7C4DFF?style=flat-square" alt=""/><br/>
-<strong><font color="#b39ddb">TECH STACK</font></strong><br/>
-<font size="1" color="#8e8e93">Technologies</font>
-</td>
-</tr>
-<tr>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 14px 8px;">
-<img src="https://img.shields.io/badge/70+-A970FF?style=flat-square" alt=""/><br/>
-<strong><font color="#b39ddb">COMMITS</font></strong><br/>
-<font size="1" color="#8e8e93">Contributions</font>
-</td>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 14px 8px;">
-<img src="https://img.shields.io/badge/SDE-7C4DFF?style=flat-square" alt=""/><br/>
-<strong><font color="#b39ddb">GOAL</font></strong><br/>
-<font size="1" color="#8e8e93">Dream Role</font>
-</td>
-</tr>
-</table>
+<br/>
+
+| Metric | Count |
+|--------|-------|
+| 🗂️ Projects Completed | **10+** |
+| 🛠️ Technologies Used | **10+** |
+| 📝 GitHub Commits | **70+** |
+| 🎯 Dream Role | **SDE** |
+
+<br/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+## 🛠️ Tech Arsenal
 
-<br/>
+<div align="center">
 
-## 🛠️ TECH ARSENAL
+### ◈ Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
+### ◈ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### ◈ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ◈ Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
 <tr>
-<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
-<strong><font color="#A970FF">◈ Frontend</font></strong><br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" /></a>
+<td width="50%" valign="top">
+
+### 📈 Real-Time Stock Screener
+> Advanced stock analysis platform with live charts, TradingView-style indicators, and smart filters. Built for precision investors.
+
+![Next.js](https://img.shields.io/badge/Next.js-A970FF?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7C4DFF?style=flat-square&logo=typescript&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Building_🔧-391459?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Smart Complaint Portal
+> Campus management system enabling students & faculty to raise, track, and resolve grievances in real-time with admin dashboards.
+
+![MERN](https://img.shields.io/badge/MERN_Stack-A970FF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live_✅-391459?style=flat-square)
+
 </td>
 </tr>
-
-<tr><td height="8" style="border:none; background:transparent;"></td></tr>
-
 <tr>
-<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
-<strong><font color="#A970FF">◈ Backend</font></strong><br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></a>
+<td width="50%" valign="top">
+
+### 🔮 GraphEra Website
+> Official website for my design-focused creative tech startup. Clean, bold, and built to convert visitors into clients.
+
+![React](https://img.shields.io/badge/React-A970FF?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-7C4DFF?style=flat-square&logo=tailwindcss&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live_✅-391459?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Personal Finance Tracker
+> Expense management dashboard with spending insights, category analysis, and monthly trend visualization for smarter decisions.
+
+![MERN](https://img.shields.io/badge/MERN_Stack-A970FF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete_🎉-391459?style=flat-square)
+
 </td>
 </tr>
-
-<tr><td height="8" style="border:none; background:transparent;"></td></tr>
-
 <tr>
-<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
-<strong><font color="#A970FF">◈ Database</font></strong><br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /></a>
+<td width="50%" valign="top">
+
+### 🤖 AI Resume Analyzer
+> NLP-powered tool that reads your resume, identifies gaps, and generates specific improvement suggestions to land more interviews.
+
+![Python](https://img.shields.io/badge/Python-A970FF?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7C4DFF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete_🎉-391459?style=flat-square)
+
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr><td height="8" style="border:none; background:transparent;"></td></tr>
+### 👤 Developer Portfolio
+> Personal portfolio to showcase projects, skills, and story. Designed with animation-first approach and responsive across all devices.
 
-<tr>
-<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
-<strong><font color="#A970FF">◈ Languages</font></strong><br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" /></a>
-</td>
-</tr>
+![React](https://img.shields.io/badge/React-A970FF?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-7C4DFF?style=flat-square&logo=tailwindcss&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live_✅-391459?style=flat-square)
 
-<tr><td height="8" style="border:none; background:transparent;"></td></tr>
-
-<tr>
-<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
-<strong><font color="#A970FF">◈ Tools & Design</font></strong><br/><br/>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind&theme=dark" /></a>
-</td>
-</tr>
-
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
-
-<br/>
-
-## 🚀 FEATURED PROJECTS
-
-<table width="100%" border="0" cellspacing="8" cellpadding="0">
-<tr>
-
-<td width="50%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
-<h4>📈 Real-Time Stock Screener</h4>
-<p><font size="2" color="#c7b8e8">Advanced stock analysis platform with live charts, TradingView-style indicators, and smart filters. Built for precision investors.</font></p>
-<br/>
-<img src="https://img.shields.io/badge/Next.js-A970FF?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-7C4DFF?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Building-391459?style=flat-square"/>
-</td>
-
-<td width="2%" style="border:none; background:transparent;"></td>
-
-<td width="48%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
-<h4>🏢 Smart Complaint Portal</h4>
-<p><font size="2" color="#c7b8e8">Campus management system enabling students & faculty to raise, track, and resolve grievances in real-time with admin dashboards.</font></p>
-<br/>
-<img src="https://img.shields.io/badge/MERN_Stack-A970FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Live-391459?style=flat-square"/>
-</td>
-
-</tr>
-
-<tr><td colspan="3" height="8" style="border:none; background:transparent;"></td></tr>
-
-<tr>
-
-<td width="50%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
-<h4>🔮 GraphEra Website</h4>
-<p><font size="2" color="#c7b8e8">Official website for my design-focused creative tech startup. Clean, bold, and built to convert visitors into clients.</font></p>
-<br/>
-<img src="https://img.shields.io/badge/React-A970FF?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-7C4DFF?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Live-391459?style=flat-square"/>
-</td>
-
-<td width="2%" style="border:none; background:transparent;"></td>
-
-<td width="48%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
-<h4>💼 Personal Finance Tracker</h4>
-<p><font size="2" color="#c7b8e8">Expense management dashboard with spending insights, category analysis, and monthly trend visualization for smarter decisions.</font></p>
-<br/>
-<img src="https://img.shields.io/badge/MERN_Stack-A970FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Complete-391459?style=flat-square"/>
-</td>
-
-</tr>
-
-<tr><td colspan="3" height="8" style="border:none; background:transparent;"></td></tr>
-
-<tr>
-
-<td width="50%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
-<h4>🤖 AI Resume Analyzer</h4>
-<p><font size="2" color="#c7b8e8">NLP-powered tool that reads your resume, identifies gaps, and generates specific improvement suggestions to land more interviews.</font></p>
-<br/>
-<img src="https://img.shields.io/badge/Python-A970FF?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-7C4DFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Complete-391459?style=flat-square"/>
-</td>
-
-<td width="2%" style="border:none; background:transparent;"></td>
-
-<td width="48%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
-<h4>👤 Developer Portfolio</h4>
-<p><font size="2" color="#c7b8e8">Personal portfolio to showcase projects, skills, and story. Designed with animation-first approach and responsive across all devices.</font></p>
-<br/>
-<img src="https://img.shields.io/badge/React-A970FF?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-7C4DFF?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Live-391459?style=flat-square"/>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
-
-<br/>
-
-## 🎯 CURRENT FOCUS
-
-<table width="100%" border="0" cellspacing="6" cellpadding="0">
-<tr>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
-☕<br/><strong><font color="#A970FF">DSA</font></strong><br/>
-<font size="1" color="#8e8e93">Java · Patterns</font><br/>
-<img src="https://img.shields.io/badge/Active-A970FF?style=flat-square" alt=""/>
-</td>
-<td width="1%" style="border:none; background:transparent;"></td>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
-⚙️<br/><strong><font color="#A970FF">Backend</font></strong><br/>
-<font size="1" color="#8e8e93">APIs · Auth · DBs</font><br/>
-<img src="https://img.shields.io/badge/Active-A970FF?style=flat-square" alt=""/>
-</td>
-<td width="1%" style="border:none; background:transparent;"></td>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
-🌐<br/><strong><font color="#A970FF">Full Stack</font></strong><br/>
-<font size="1" color="#8e8e93">End-to-end builds</font><br/>
-<img src="https://img.shields.io/badge/Active-7C4DFF?style=flat-square" alt=""/>
-</td>
-<td width="1%" style="border:none; background:transparent;"></td>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
-🧠<br/><strong><font color="#A970FF">Sys Design</font></strong><br/>
-<font size="1" color="#8e8e93">HLD · LLD</font><br/>
-<img src="https://img.shields.io/badge/Learning-391459?style=flat-square" alt=""/>
-</td>
-<td width="1%" style="border:none; background:transparent;"></td>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
-🤝<br/><strong><font color="#A970FF">Open Source</font></strong><br/>
-<font size="1" color="#8e8e93">Contributing</font><br/>
-<img src="https://img.shields.io/badge/Starting-391459?style=flat-square" alt=""/>
-</td>
-<td width="1%" style="border:none; background:transparent;"></td>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
-🚀<br/><strong><font color="#A970FF">Product</font></strong><br/>
-<font size="1" color="#8e8e93">GraphEra · Build</font><br/>
-<img src="https://img.shields.io/badge/Active-A970FF?style=flat-square" alt=""/>
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+## 🎯 Current Focus
 
-<br/>
+<div align="center">
 
-## ✨ JOURNEY & MILESTONES
+| | Focus Area | Status | Details |
+|--|-----------|--------|---------|
+| ☕ | **DSA** | ![Active](https://img.shields.io/badge/Active-A970FF?style=flat-square) | Java · Patterns |
+| ⚙️ | **Backend** | ![Active](https://img.shields.io/badge/Active-A970FF?style=flat-square) | APIs · Auth · DBs |
+| 🌐 | **Full Stack** | ![Active](https://img.shields.io/badge/Active-7C4DFF?style=flat-square) | End-to-end builds |
+| 🧠 | **System Design** | ![Learning](https://img.shields.io/badge/Learning-391459?style=flat-square) | HLD · LLD |
+| 🤝 | **Open Source** | ![Starting](https://img.shields.io/badge/Starting-391459?style=flat-square) | Contributing |
+| 🚀 | **Product** | ![Active](https://img.shields.io/badge/Active-A970FF?style=flat-square) | GraphEra · Build |
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 20px 24px;">
+</div>
+
+---
+
+## ✨ Journey & Milestones
 
 ```
   2021 ──► 🎓  Joined B.Tech IT @ GGSIPU — where the journey began
@@ -307,128 +208,95 @@
   → Now ──► 🔮  Building production systems · Seeking SDE opportunities
 ```
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
-
-<br/>
-
-## 💬 DEVELOPER PHILOSOPHY
+## 💬 Developer Philosophy
 
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=4000&pause=2000&color=A970FF&center=true&vCenter=true&width=750&lines=%E2%80%9CTechnology+becomes+meaningful+when+it+solves+real+problems.%E2%80%9D;%E2%80%9CBuild+with+intention.+Ship+with+purpose.%E2%80%9D;%E2%80%9CCode+is+craft.+Products+are+stories.%E2%80%9D" alt="Philosophy"/>
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=2000&color=A970FF&center=true&vCenter=true&width=750&lines=%E2%80%9CTechnology+becomes+meaningful+when+it+solves+real+problems.%E2%80%9D;%E2%80%9CBuild+with+intention.+Ship+with+purpose.%E2%80%9D;%E2%80%9CCode+is+craft.+Products+are+stories.%E2%80%9D" alt="Philosophy"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
-
-<br/>
-
-## 🏆 GITHUB TROPHIES
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amritas851203&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Amritas851203&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
-
-<br/>
-
-## 📊 GITHUB ANALYTICS
-
-<table width="100%" border="0" cellspacing="6" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=ffffff&icon_color=7C4DFF&border_color=4a2080&hide_border=false&rank_icon=github" width="100%" alt="Stats"/>
-</td>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=compact&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=ffffff&border_color=4a2080&hide_border=false" width="100%" alt="Languages"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritas851203&theme=midnight-purple&background=0d0722&ring=A970FF&fire=7C4DFF&currStreakLabel=A970FF&sideLabels=b39ddb&border=4a2080" width="100%" alt="Streak"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
-
-<br/>
-
-## 🌌 AMRITA SINGH ECOSYSTEM
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=ffffff&icon_color=7C4DFF&border_color=4a2080&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=compact&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=ffffff&border_color=4a2080" width="49%" alt="Top Languages"/>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" bgcolor="#0d0722" style="border: 2px dashed #4a2080; border-radius: 20px; padding: 48px 64px;">
-<br/>
-<img src="https://img.shields.io/badge/🌌_ECOSYSTEM_VISUAL-Coming_Soon-A970FF?style=for-the-badge&labelColor=120a2b" alt="Coming Soon"/>
 <br/><br/>
-<font color="#8e8e93" size="2"><i>A custom ecosystem visualization is being designed.<br/>Drop back soon. ✨</i></font>
-<br/><br/>
-</td>
-</tr>
-</table>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritas851203&theme=midnight-purple&background=0d0722&ring=A970FF&fire=7C4DFF&currStreakLabel=A970FF&sideLabels=b39ddb&border=4a2080" width="70%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amritas851203&bg_color=0d0722&color=A970FF&line=7C4DFF&point=ffffff&area=true&hide_border=false&border_color=4a2080" width="100%" alt="Activity Graph"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+## 🌌 Amrita Singh Ecosystem
 
-<br/>
+<div align="center">
 
-## 🔗 CONNECT WITH ME
+> 🔮 *A custom interactive ecosystem visualization is being crafted.*
+> *Drop back soon — something beautiful is coming. ✨*
+
+```
+                        ┌─────────────────────────────┐
+                        │      AMRITA'S UNIVERSE       │
+                        └──────────────┬──────────────┘
+                                       │
+              ┌────────────────────────┼───────────────────────┐
+              │                        │                       │
+       ┌──────▼──────┐         ┌───────▼──────┐       ┌───────▼──────┐
+       │  🚀 GraphEra │         │ 💻 Full Stack │       │ 🎓 B.Tech IT │
+       │   Startup   │         │     Dev      │       │   @ GGSIPU   │
+       └──────┬──────┘         └───────┬──────┘       └───────┬──────┘
+              │                        │                       │
+       ┌──────▼──────┐         ┌───────▼──────┐       ┌───────▼──────┐
+       │ 🎨 Design   │         │ 🛠️ MERN Stack │       │ ☕ DSA Java  │
+       │   & Brand   │         │  Next.js, TS │       │   Patterns  │
+       └─────────────┘         └─────────────┘        └─────────────┘
+```
+
+</div>
+
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
 
 <br/>
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0722"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0722)](https://linkedin.com)
 &nbsp;
-<a href="https://github.com/Amritas851203" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-See_My_Work-A970FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0722"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-See_My_Work-A970FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0722)](https://github.com/Amritas851203)
 &nbsp;
-<a href="mailto:amritasingh3830ff@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0722"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0722)](mailto:amritasingh3830ff@gmail.com)
 &nbsp;
-<a href="https://portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0722"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0722)](https://portfolio.com)
 
 <br/><br/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
@@ -436,6 +304,6 @@
 
 <br/>
 
-<font color="#8e8e93" size="1"><i>✦ Made with 💜 by Amrita Singh · Building impact, one commit at a time ✦</i></font>
+*✦ Made with 💜 by Amrita Singh · Building impact, one commit at a time ✦*
 
 </div>
