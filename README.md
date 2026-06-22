@@ -1,282 +1,441 @@
-<p align="center">
-  <img src="banneramrita.jpeg" width="100%" alt="Amrita Singh Banner"/>
-</p>
+<div align="center">
 
----
+<img src="banneramrita.jpeg" width="100%" alt="Amrita Singh"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Amrita+Singh" alt="Typing Effect" />
-</p>
+</div>
 
-<p align="center">
-  <strong>🔮 Full Stack Developer | B.Tech IT Student | Founder @GraphEra</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-000000?style=for-the-badge&labelColor=120a2b" alt="Open to Opportunities"/>
-  <img src="https://img.shields.io/badge/🎓%20GGSIPU-000000?style=for-the-badge&labelColor=120a2b" alt="GGSIPU"/>
-  <img src="https://img.shields.io/badge/📍%20India-000000?style=for-the-badge&labelColor=120a2b" alt="India"/>
-  <img src="https://img.shields.io/badge/📚%20Always%20Learning-000000?style=for-the-badge&labelColor=120a2b" alt="Always Learning"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
 
----
+</div>
 
-## 💻 ABOUT ME
+<br/>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- About Me Bullet Points -->
-    <td width="55%" valign="top">
-      <ul>
-        <li>🎓 <b>B.Tech IT Student</b> at GGSIPU</li>
-        <li>🏢 <b>Full Stack Developer Intern</b> at Edubuk</li>
-        <li>🚀 <b>Founder & Creator</b> of GraphEra</li>
-        <li>💡 Passionate about building <b>real-world solutions</b></li>
-        <li>🌟 Love to learn, explore and collaborate</li>
-      </ul>
-    </td>
-    <!-- Mini Dashboard Grid Cards -->
-    <td width="45%" valign="top">
-      <table width="100%" border="0" cellspacing="6" cellpadding="0">
-        <tr>
-          <td align="center" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 15px 10px;">
-            🛸<br/><font size="2" color="#b39ddb"><b>PROJECTS</b></font><br/>
-            <font size="6" color="#A970FF"><b>10+</b></font><br/>
-            <font size="1" color="#8e8e93">Completed</font>
-          </td>
-          <td align="center" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 15px 10px;">
-            ⚡<br/><font size="2" color="#b39ddb"><b>TECH STACK</b></font><br/>
-            <font size="6" color="#A970FF"><b>10+</b></font><br/>
-            <font size="1" color="#8e8e93">Technologies</font>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 15px 10px;">
-            🐙<br/><font size="2" color="#b39ddb"><b>GITHUB</b></font><br/>
-            <font size="6" color="#A970FF"><b>70+</b></font><br/>
-            <font size="1" color="#8e8e93">Contributions</font>
-          </td>
-          <td align="center" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px; padding: 15px 10px;">
-            🎯<br/><font size="2" color="#b39ddb"><b>GOAL</b></font><br/>
-            <font size="6" color="#A970FF"><b>SDE</b></font><br/>
-            <font size="1" color="#8e8e93">Role</font>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Amrita+Singh;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Building+Real+World+Products;%F0%9F%8C%B1+Lifelong+Learner;%E2%9C%A8+Founder+%26+Creator" alt="Typing SVG"/>
 
-## 🛠️ TECH STACK
+<br/><br/>
 
-<table width="100%" border="0" cellpadding="10" cellspacing="6">
-  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
-    <td width="20%" align="center" style="border-radius: 8px;"><b>Frontend</b></td>
-    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,ts" alt="Frontend"/></a></td>
-  </tr>
-  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
-    <td width="20%" align="center" style="border-radius: 8px;"><b>Backend</b></td>
-    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/></a></td>
-  </tr>
-  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
-    <td width="20%" align="center" style="border-radius: 8px;"><b>Database</b></td>
-    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database"/></a></td>
-  </tr>
-  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
-    <td width="20%" align="center" style="border-radius: 8px;"><b>Tools & Platforms</b></td>
-    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools"/></a></td>
-  </tr>
-  <tr bgcolor="#120a2b" style="border: 1px solid #391459;">
-    <td width="20%" align="center" style="border-radius: 8px;"><b>Others</b></td>
-    <td style="border-radius: 8px;"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="Others"/></a></td>
-  </tr>
-</table>
+<strong style="font-size:18px;">Full Stack Developer · Founder @GraphEra · B.Tech IT @ GGSIPU</strong>
 
----
+<br/><br/>
 
-## ⭐ FEATURED PROJECTS
+![Profile Views](https://komarev.com/ghpvc/?username=Amritas851203&color=A970FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Amritas851203?style=for-the-badge&color=A970FF&labelColor=120a2b&label=FOLLOWERS)
+![Open To Work](https://img.shields.io/badge/🟢_OPEN_TO_OPPORTUNITIES-120a2b?style=for-the-badge&labelColor=391459)
 
-<table width="100%" border="0" cellspacing="8" cellpadding="12">
-  <tr>
-    <!-- Project 1 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">📈</p>
-      <h4>Stock Screener</h4>
-      <p><font size="2" color="#cccccc">Real-time stock analysis platform with mixers, charts & indicators.</font></p>
-      <br/>
-      <font size="1" color="#A970FF"><b>MERN Stack</b></font>
-    </td>
-    <!-- Project 2 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">🏢</p>
-      <h4>Complaint Portal</h4>
-      <p><font size="2" color="#cccccc">Smart campus complaint system for students & faculty.</font></p>
-      <br/>
-      <font size="1" color="#A970FF"><b>MERN Stack</b></font>
-    </td>
-    <!-- Project 3 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">🔮</p>
-      <h4>GraphEra Website</h4>
-      <p><font size="2" color="#cccccc">Official website for my startup GraphEra.</font></p>
-      <br/>
-      <font size="1" color="#A970FF"><b>React • Tailwind</b></font>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 4 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">💼</p>
-      <h4>Finance Tracker</h4>
-      <p><font size="2" color="#cccccc">Personal finance tracker with analysis & insights.</font></p>
-      <br/>
-      <font size="1" color="#A970FF"><b>MERN Stack</b></font>
-    </td>
-    <!-- Project 5 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">🤖</p>
-      <h4>AI Resume Analyzer</h4>
-      <p><font size="2" color="#cccccc">AI powered resume analysis and improvement suggestions.</font></p>
-      <br/>
-      <font size="1" color="#A970FF"><b>Python • NLP</b></font>
-    </td>
-    <!-- Project 6 -->
-    <td width="33%" bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px;" valign="top">
-      <p align="center">👤</p>
-      <h4>Portfolio Website</h4>
-      <p><font size="2" color="#cccccc">My personal portfolio to showcase my work & acts.</font></p>
-      <br/>
-      <font size="1" color="#A970FF"><b>React • Tailwind</b></font>
-    </td>
-  </tr>
-</table>
+</div>
 
----
+<br/>
 
-## 🏆 ACHIEVEMENTS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=391459&height=2&section=header" width="100%"/>
+
+<br/>
+
+## 💜 ABOUT ME
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 12px; padding: 15px;">
-      <ul>
-        <li>👑 <b>Founder of GraphEra</b> — Building a design-focused creative tech brand.</li><br/>
-        <li>🏢 <b>Full Stack Developer Intern @ Edubuk</b> — Working on real-world projects and improving skills.</li><br/>
-        <li>🔥 <b>Active Contributor</b> — Consistent GitHub contributions and project building.</li><br/>
-        <li>🏆 <b>Hackathon Enthusiast</b> — Participated in multiple hackathons and events.</li><br/>
-        <li>🌟 <b>Always Learning</b> — Exploring new technologies and building in public.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="54%" valign="top">
+
+```
+╔══════════════════════════════════════════╗
+║          👩‍💻  AMRITA SINGH               ║
+╠══════════════════════════════════════════╣
+║  🎓  B.Tech IT — GGSIPU, Delhi          ║
+║  🏢  Full Stack Dev Intern @ Edubuk     ║
+║  🚀  Founder & Creator @ GraphEra       ║
+║  💡  Building products that matter      ║
+║  🤝  Community Builder & Collaborator   ║
+║  🎯  Targeting SDE Roles               ║
+╠══════════════════════════════════════════╣
+║  ✦  I build for impact, not just code   ║
+║  ✦  Design-driven development mindset   ║
+║  ✦  Open to internships & collabs       ║
+╚══════════════════════════════════════════╝
+```
+
+</td>
+<td width="4%"></td>
+<td width="42%" valign="top">
+
+<table width="100%" border="0" cellspacing="6" cellpadding="0">
+<tr>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 14px 8px;">
+<img src="https://img.shields.io/badge/10+-A970FF?style=flat-square" alt=""/><br/>
+<strong><font color="#b39ddb">PROJECTS</font></strong><br/>
+<font size="1" color="#8e8e93">Completed & Live</font>
+</td>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 14px 8px;">
+<img src="https://img.shields.io/badge/10+-7C4DFF?style=flat-square" alt=""/><br/>
+<strong><font color="#b39ddb">TECH STACK</font></strong><br/>
+<font size="1" color="#8e8e93">Technologies</font>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 14px 8px;">
+<img src="https://img.shields.io/badge/70+-A970FF?style=flat-square" alt=""/><br/>
+<strong><font color="#b39ddb">COMMITS</font></strong><br/>
+<font size="1" color="#8e8e93">Contributions</font>
+</td>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 14px 8px;">
+<img src="https://img.shields.io/badge/SDE-7C4DFF?style=flat-square" alt=""/><br/>
+<strong><font color="#b39ddb">GOAL</font></strong><br/>
+<font size="1" color="#8e8e93">Dream Role</font>
+</td>
+</tr>
 </table>
 
----
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+
+<br/>
+
+## 🛠️ TECH ARSENAL
+
+<table width="100%" border="0" cellpadding="12" cellspacing="0">
+
+<tr>
+<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
+<strong><font color="#A970FF">◈ Frontend</font></strong><br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" /></a>
+</td>
+</tr>
+
+<tr><td height="8" style="border:none; background:transparent;"></td></tr>
+
+<tr>
+<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
+<strong><font color="#A970FF">◈ Backend</font></strong><br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></a>
+</td>
+</tr>
+
+<tr><td height="8" style="border:none; background:transparent;"></td></tr>
+
+<tr>
+<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
+<strong><font color="#A970FF">◈ Database</font></strong><br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /></a>
+</td>
+</tr>
+
+<tr><td height="8" style="border:none; background:transparent;"></td></tr>
+
+<tr>
+<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
+<strong><font color="#A970FF">◈ Languages</font></strong><br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" /></a>
+</td>
+</tr>
+
+<tr><td height="8" style="border:none; background:transparent;"></td></tr>
+
+<tr>
+<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 10px; padding: 14px 18px;">
+<strong><font color="#A970FF">◈ Tools & Design</font></strong><br/><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind&theme=dark" /></a>
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+
+<br/>
+
+## 🚀 FEATURED PROJECTS
+
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
+<tr>
+
+<td width="50%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
+<h4>📈 Real-Time Stock Screener</h4>
+<p><font size="2" color="#c7b8e8">Advanced stock analysis platform with live charts, TradingView-style indicators, and smart filters. Built for precision investors.</font></p>
+<br/>
+<img src="https://img.shields.io/badge/Next.js-A970FF?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-7C4DFF?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Building-391459?style=flat-square"/>
+</td>
+
+<td width="2%" style="border:none; background:transparent;"></td>
+
+<td width="48%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
+<h4>🏢 Smart Complaint Portal</h4>
+<p><font size="2" color="#c7b8e8">Campus management system enabling students & faculty to raise, track, and resolve grievances in real-time with admin dashboards.</font></p>
+<br/>
+<img src="https://img.shields.io/badge/MERN_Stack-A970FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Live-391459?style=flat-square"/>
+</td>
+
+</tr>
+
+<tr><td colspan="3" height="8" style="border:none; background:transparent;"></td></tr>
+
+<tr>
+
+<td width="50%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
+<h4>🔮 GraphEra Website</h4>
+<p><font size="2" color="#c7b8e8">Official website for my design-focused creative tech startup. Clean, bold, and built to convert visitors into clients.</font></p>
+<br/>
+<img src="https://img.shields.io/badge/React-A970FF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-7C4DFF?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Live-391459?style=flat-square"/>
+</td>
+
+<td width="2%" style="border:none; background:transparent;"></td>
+
+<td width="48%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
+<h4>💼 Personal Finance Tracker</h4>
+<p><font size="2" color="#c7b8e8">Expense management dashboard with spending insights, category analysis, and monthly trend visualization for smarter decisions.</font></p>
+<br/>
+<img src="https://img.shields.io/badge/MERN_Stack-A970FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Complete-391459?style=flat-square"/>
+</td>
+
+</tr>
+
+<tr><td colspan="3" height="8" style="border:none; background:transparent;"></td></tr>
+
+<tr>
+
+<td width="50%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
+<h4>🤖 AI Resume Analyzer</h4>
+<p><font size="2" color="#c7b8e8">NLP-powered tool that reads your resume, identifies gaps, and generates specific improvement suggestions to land more interviews.</font></p>
+<br/>
+<img src="https://img.shields.io/badge/Python-A970FF?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-7C4DFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Complete-391459?style=flat-square"/>
+</td>
+
+<td width="2%" style="border:none; background:transparent;"></td>
+
+<td width="48%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 18px;">
+<h4>👤 Developer Portfolio</h4>
+<p><font size="2" color="#c7b8e8">Personal portfolio to showcase projects, skills, and story. Designed with animation-first approach and responsive across all devices.</font></p>
+<br/>
+<img src="https://img.shields.io/badge/React-A970FF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-7C4DFF?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Live-391459?style=flat-square"/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+
+<br/>
+
+## 🎯 CURRENT FOCUS
+
+<table width="100%" border="0" cellspacing="6" cellpadding="0">
+<tr>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
+☕<br/><strong><font color="#A970FF">DSA</font></strong><br/>
+<font size="1" color="#8e8e93">Java · Patterns</font><br/>
+<img src="https://img.shields.io/badge/Active-A970FF?style=flat-square" alt=""/>
+</td>
+<td width="1%" style="border:none; background:transparent;"></td>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
+⚙️<br/><strong><font color="#A970FF">Backend</font></strong><br/>
+<font size="1" color="#8e8e93">APIs · Auth · DBs</font><br/>
+<img src="https://img.shields.io/badge/Active-A970FF?style=flat-square" alt=""/>
+</td>
+<td width="1%" style="border:none; background:transparent;"></td>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
+🌐<br/><strong><font color="#A970FF">Full Stack</font></strong><br/>
+<font size="1" color="#8e8e93">End-to-end builds</font><br/>
+<img src="https://img.shields.io/badge/Active-7C4DFF?style=flat-square" alt=""/>
+</td>
+<td width="1%" style="border:none; background:transparent;"></td>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
+🧠<br/><strong><font color="#A970FF">Sys Design</font></strong><br/>
+<font size="1" color="#8e8e93">HLD · LLD</font><br/>
+<img src="https://img.shields.io/badge/Learning-391459?style=flat-square" alt=""/>
+</td>
+<td width="1%" style="border:none; background:transparent;"></td>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
+🤝<br/><strong><font color="#A970FF">Open Source</font></strong><br/>
+<font size="1" color="#8e8e93">Contributing</font><br/>
+<img src="https://img.shields.io/badge/Starting-391459?style=flat-square" alt=""/>
+</td>
+<td width="1%" style="border:none; background:transparent;"></td>
+<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 12px; padding: 16px 10px;" width="16%">
+🚀<br/><strong><font color="#A970FF">Product</font></strong><br/>
+<font size="1" color="#8e8e93">GraphEra · Build</font><br/>
+<img src="https://img.shields.io/badge/Active-A970FF?style=flat-square" alt=""/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+
+<br/>
+
+## ✨ JOURNEY & MILESTONES
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 20px 24px;">
+
+```
+  2021 ──► 🎓  Joined B.Tech IT @ GGSIPU — where the journey began
+             │
+  2022 ──► 💡  Discovered full stack dev — fell in love with building
+             │
+  2023 ──► 🚀  Founded GraphEra — design meets technology startup
+             │
+  2024 ──► 🏢  Full Stack Developer Intern @ Edubuk — real-world impact
+             │
+           🏆  Hackathon participant — shipped under pressure & won lessons
+             │
+  2025 ──► 🌟  Community builder — helping peers grow in tech
+             │
+  → Now ──► 🔮  Building production systems · Seeking SDE opportunities
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+
+<br/>
+
+## 💬 DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=4000&pause=2000&color=A970FF&center=true&vCenter=true&width=750&lines=%E2%80%9CTechnology+becomes+meaningful+when+it+solves+real+problems.%E2%80%9D;%E2%80%9CBuild+with+intention.+Ship+with+purpose.%E2%80%9D;%E2%80%9CCode+is+craft.+Products+are+stories.%E2%80%9D" alt="Philosophy"/>
+
+<br/><br/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+
+<br/>
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amritas851203&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+
+<br/>
 
 ## 📊 GITHUB ANALYTICS
 
 <table width="100%" border="0" cellspacing="6" cellpadding="0">
-  <tr>
-    <!-- Stats Card -->
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=gotham&bg_color=120a2b&title_color=A970FF&text_color=ffffff&icon_color=A970FF&border_color=391459&hide_border=false" width="100%" alt="Stats"/>
-    </td>
-    <!-- Commits Bar Graph Card -->
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/records?username=Amritas851203&theme=gotham&bg_color=120a2b&title_color=A970FF&text_color=ffffff&icon_color=A970FF&border_color=391459&hide_border=false" width="100%" alt="Commits Chart"/>
-    </td>
-  </tr>
-  <tr>
-    <!-- Top Languages Pie Chart -->
-    <td width="50%" valign="top">
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=compact&theme=gotham&bg_color=120a2b&title_color=A970FF&text_color=ffffff&border_color=391459&hide_border=false" width="100%" alt="Languages Chart"/>
-    </td>
-    <!-- Contribution Streak Card -->
-    <td width="50%" valign="top">
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritas851203&theme=gotham&background=120a2b&title=A970FF&text=ffffff&sideNums=ffffff&sideLabels=b39ddb&ring=A970FF&fire=A970FF&border=391459" width="100%" alt="Streak Card"/>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=ffffff&icon_color=7C4DFF&border_color=4a2080&hide_border=false&rank_icon=github" width="100%" alt="Stats"/>
+</td>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=compact&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=ffffff&border_color=4a2080&hide_border=false" width="100%" alt="Languages"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritas851203&theme=midnight-purple&background=0d0722&ring=A970FF&fire=7C4DFF&currStreakLabel=A970FF&sideLabels=b39ddb&border=4a2080" width="100%" alt="Streak"/>
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-## 🗺️ AMRITA SINGH ECOSYSTEM
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="10" bgcolor="#120a2b" style="border: 2px solid #391459; border-radius: 12px;">
-  <tr>
-    <td align="center">
-      <br/>
-      <pre>
-          <font color="#A970FF"><b>┌─────────────────────────────────────────────────────────┐</b></font>
-          <font color="#A970FF"><b>│</b></font>                    💻 <font color="#ffffff"><b>Development</b></font>                       <font color="#A970FF"><b>│</b></font>
-          <font color="#A970FF"><b>│</b></font>     • HTML/CSS/JS  • React.js  • Java  • Python         <font color="#A970FF"><b>│</b></font>
-          <font color="#A970FF"><b>│</b></font>     • MongoDB & MySQL         • Git & GitHub            <font color="#A970FF"><b>│</b></font>
-          <font color="#A970FF"><b>└────────────────────────────┬────────────────────────────┘</b></font>
-                                       │
-            ┌──────────────────────────┼──────────────────────────┐
-            ▼                          ▼                          ▼
-<font color="#391459">┌───────────────────────┐</font>  <font color="#391459">┌───────────────────────┐</font>  <font color="#391459">┌───────────────────────┐</font>
-<font color="#391459">│</font>       🚀 <font color="#ffffff"><b>Startup</b></font>      <font color="#391459">│</font>  <font color="#391459">│</font>      🧠 <font color="#ffffff"><b>Design</b></font>        <font color="#391459">│</font>  <font color="#391459">│</font>     🤝 <font color="#ffffff"><b>Community</b></font>      <font color="#391459">│</font>
-<font color="#391459">│</font> • GraphEra - Founder  <font color="#391459">│</font>  <font color="#391459">│</font> • Figma               <font color="#391459">│</font>  <font color="#391459">│</font> • Network Building    <font color="#391459">│</font>
-<font color="#391459">│</font> • Product Building    <font color="#391459">│</font>  <font color="#391459">│</font> • UI / UX Design      <font color="#391459">│</font>  <font color="#391459">│</font> • Mentorship          <font color="#391459">│</font>
-<font color="#391459">│</font> • Brand Growth        <font color="#391459">│</font>  <font color="#391459">│</font> • GraphEra Projects   <font color="#391459">│</font>  <font color="#391459">│</font> • Knowledge Sharing   <font color="#391459">│</font>
-<font color="#391459">└───────────────────────┘</font>  <font color="#391459">└───────────────────────┘</font>  <font color="#391459">└───────────────────────┘</font>
-                                       │
-                                       ▼
-          <font color="#A970FF"><b>┌─────────────────────────────────────────────────────────┐</b></font>
-          <font color="#A970FF"><b>│</b></font>                    🎯 <font color="#ffffff"><b>Future Goals</b></font>                      <font color="#A970FF"><b>│</b></font>
-          <font color="#A970FF"><b>│</b></font>         • Software Internship   • Full Stack Mastery    <font color="#A970FF"><b>│</b></font>
-          <font color="#A970FF"><b>└─────────────────────────────────────────────────────────┘</b></font>
-      </pre>
-      <br/>
-    </td>
-  </tr>
+<br/>
+
+## 🌌 AMRITA SINGH ECOSYSTEM
+
+<div align="center">
+
+<br/>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" bgcolor="#0d0722" style="border: 2px dashed #4a2080; border-radius: 20px; padding: 48px 64px;">
+<br/>
+<img src="https://img.shields.io/badge/🌌_ECOSYSTEM_VISUAL-Coming_Soon-A970FF?style=for-the-badge&labelColor=120a2b" alt="Coming Soon"/>
+<br/><br/>
+<font color="#8e8e93" size="2"><i>A custom ecosystem visualization is being designed.<br/>Drop back soon. ✨</i></font>
+<br/><br/>
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-## 🎯 CURRENT FOCUS
+</div>
 
-<table width="100%" border="0" cellspacing="5" cellpadding="10" align="center">
-  <tr align="center">
-    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
-      ☕<br/><b>DSA in Java</b><br/><font size="1" color="#b39ddb">Improving problem-solving</font>
-    </td>
-    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
-      ⚙️<br/><b>Backend Dev</b><br/><font size="1" color="#b39ddb">Building secure APIs</font>
-    </td>
-    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
-      🏗️<br/><b>System Design</b><br/><font size="1" color="#b39ddb">Low & High level architecture</font>
-    </td>
-    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
-      🌐<br/><b>Open Source</b><br/><font size="1" color="#b39ddb">Contributing to codebases</font>
-    </td>
-    <td bgcolor="#120a2b" style="border: 1px solid #391459; border-radius: 8px;">
-      🚀<br/><b>Product Building</b><br/><font size="1" color="#b39ddb">Creating production systems</font>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24&height=2" width="100%"/>
+
+<br/>
 
 ## 🔗 CONNECT WITH ME
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-🌐-purple?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="mailto:amritasingh3830ff@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
 
----
+<br/>
 
-<p align="center">
-  <i>❝ Don't just learn technology. Build solutions that create impact. ❞</i> <br/> 💜
-</p>
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0722"/>
+</a>
+&nbsp;
+<a href="https://github.com/Amritas851203" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-See_My_Work-A970FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0722"/>
+</a>
+&nbsp;
+<a href="mailto:amritasingh3830ff@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0722"/>
+</a>
+&nbsp;
+<a href="https://portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0722"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks+for+visiting+✨&fontSize=22&fontColor=A970FF&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<br/>
+
+<font color="#8e8e93" size="1"><i>✦ Made with 💜 by Amrita Singh · Building impact, one commit at a time ✦</i></font>
+
+</div>
