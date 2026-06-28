@@ -293,7 +293,6 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 <br/>
 
 </div>
----
 
 ## 💬 Developer Philosophy
 
