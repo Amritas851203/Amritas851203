@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.jpeg" width="100%" alt="Amrita Singh Banner"/>
+
+</div>
+
 <!-- ═══════════════════ BANNER — DO NOT TOUCH ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Amrita%20Singh&fontSize=60&fontColor=A970FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20%40%20GraphEra&descAlignY=60&descSize=18&descColor=b39ddb" width="100%"/>
 
