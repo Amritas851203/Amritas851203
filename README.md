@@ -5,12 +5,6 @@
 </div>
 
 <!-- ═══════════════════ BANNER — DO NOT TOUCH ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Amrita%20Singh&fontSize=60&fontColor=A970FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20%40%20GraphEra&descAlignY=60&descSize=18&descColor=b39ddb" width="100%"/>
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Amrita+Singh!;%F0%9F%92%BB+Full+Stack+Developer+%26+Builder;%F0%9F%9A%80+Founder+%40+GraphEra;%F0%9F%8C%B1+B.Tech+IT+%40+GGSIPU%2C+Delhi;%E2%9C%A8+Building+Products+That+Matter" alt="Typing SVG" />
-
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amritas851203&color=A970FF&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
