@@ -231,18 +231,23 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 16px; padding: 32px 48px;">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=1600&pause=300&color=A970FF&center=true&vCenter=true&multiline=true&repeat=true&width=580&height=260&lines=✦+AMRITA'S+JOURNEY+✦;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━;2021+🎓+Joined+B.Tech+IT+%40+GGSIPU+Delhi;++++++++++++++++│;2022+💡+Fell+in+love+with+Full+Stack+Development;++++++++++++++++│;2023+🚀+Founded+GraphEra+—+Design+%26+Tech+Startup;++++++++++++++++│;2024+🏢+Full+Stack+Intern+%40+Edubuk+(Real-world!);++++++++++++++++│;2024+🏆+Hackathon+Warrior+—+Shipped+Under+Pressure;++++++++++++++++│;2025+🌟+Community+Builder+—+Growing+Tech+Peers;++++++++++++++++│;→+Now+🔮+Seeking+SDE+Roles+·+Building+in+Public" alt="Journey Timeline"/>
-
-</td>
-</tr>
-</table>
+| 🗓️ Year | 🚀 Milestone |
+|:-------:|:------------|
+| **2021** | 🎓 Joined B.Tech IT @ GGSIPU Delhi — where the journey began |
+| ↓ | |
+| **2022** | 💡 Fell in love with Full Stack Development |
+| ↓ | |
+| **2023** | 🚀 Founded GraphEra — Design meets Technology Startup |
+| ↓ | |
+| **2024** | 🏢 Full Stack Dev Intern @ Edubuk — Real-world impact |
+| ↓ | |
+| **2024** | 🏆 Hackathon Warrior — Shipped under pressure & won lessons |
+| ↓ | |
+| **2025** | 🌟 Community Builder — Helping peers grow in tech |
+| ↓ | |
+| **→ Now** | 🔮 Building production systems · Seeking SDE opportunities |
 
 </div>
-
 <br/>
 
 ---
