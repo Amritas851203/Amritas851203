@@ -1,0 +1,122 @@
+<svg width="100%" viewBox="0 0 680 520" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Amrita Singh Ecosystem</title>
+<desc>A tree diagram showing Amrita Singh's ecosystem</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+  <style>
+    .box-root { fill:#1a0a35; stroke:#A970FF; stroke-width:1.5; }
+    .box-mid  { fill:#110721; stroke:#7C4DFF; stroke-width:1; }
+    .box-leaf { fill:#0d0522; stroke:#4a2080; stroke-width:1; }
+    .lbl-root { font-family:monospace; font-size:15px; font-weight:700; fill:#E0C8FF; }
+    .lbl-mid  { font-family:monospace; font-size:13px; font-weight:600; fill:#C4A0FF; }
+    .lbl-leaf { font-family:monospace; font-size:12px; font-weight:500; fill:#9B78D4; }
+    .lbl-sub  { font-family:monospace; font-size:10px; fill:#7055A8; }
+    .conn     { fill:none; stroke:#4a2080; stroke-width:1.2; }
+    .conn-top { fill:none; stroke:#7C4DFF; stroke-width:1.5; }
+    .glow-dot { fill:#A970FF; }
+  </style>
+</defs>
+
+<!-- ROOT -->
+<rect x="220" y="24" width="240" height="52" rx="12" class="box-root"/>
+<text x="340" y="44" text-anchor="middle" class="lbl-root">AMRITA'S WORLD</text>
+<text x="340" y="62" text-anchor="middle" class="lbl-sub">Full Stack Developer · Founder · Builder</text>
+
+<!-- Root to branch -->
+<line x1="340" y1="76" x2="340" y2="108" class="conn-top"/>
+<line x1="116" y1="108" x2="564" y2="108" class="conn-top"/>
+<line x1="116" y1="108" x2="116" y2="140" class="conn-top"/>
+<line x1="340" y1="108" x2="340" y2="140" class="conn-top"/>
+<line x1="564" y1="108" x2="564" y2="140" class="conn-top"/>
+<circle cx="116" cy="108" r="3.5" class="glow-dot"/>
+<circle cx="340" cy="108" r="3.5" class="glow-dot"/>
+<circle cx="564" cy="108" r="3.5" class="glow-dot"/>
+
+<!-- MID LEFT: GraphEra -->
+<rect x="36" y="140" width="160" height="60" rx="10" class="box-mid"/>
+<text x="116" y="164" text-anchor="middle" class="lbl-mid">GraphEra</text>
+<text x="116" y="182" text-anchor="middle" class="lbl-sub">Design &amp; Tech Startup</text>
+
+<!-- MID CENTRE: Full Stack Dev -->
+<rect x="260" y="140" width="160" height="60" rx="10" class="box-mid"/>
+<text x="340" y="164" text-anchor="middle" class="lbl-mid">Full Stack Dev</text>
+<text x="340" y="182" text-anchor="middle" class="lbl-sub">Intern @ Edubuk</text>
+
+<!-- MID RIGHT: B.Tech IT -->
+<rect x="484" y="140" width="160" height="60" rx="10" class="box-mid"/>
+<text x="564" y="164" text-anchor="middle" class="lbl-mid">B.Tech IT</text>
+<text x="564" y="182" text-anchor="middle" class="lbl-sub">GGSIPU, Delhi</text>
+
+<!-- GraphEra connectors -->
+<line x1="116" y1="200" x2="116" y2="232" class="conn"/>
+<line x1="56"  y1="232" x2="176" y2="232" class="conn"/>
+<line x1="56"  y1="232" x2="56"  y2="264" class="conn"/>
+<line x1="176" y1="232" x2="176" y2="264" class="conn"/>
+<circle cx="56"  cy="232" r="2.5" class="glow-dot" opacity="0.7"/>
+<circle cx="176" cy="232" r="2.5" class="glow-dot" opacity="0.7"/>
+
+<!-- Full Stack connectors -->
+<line x1="340" y1="200" x2="340" y2="232" class="conn"/>
+<line x1="280" y1="232" x2="400" y2="232" class="conn"/>
+<line x1="280" y1="232" x2="280" y2="264" class="conn"/>
+<line x1="400" y1="232" x2="400" y2="264" class="conn"/>
+<circle cx="280" cy="232" r="2.5" class="glow-dot" opacity="0.7"/>
+<circle cx="400" cy="232" r="2.5" class="glow-dot" opacity="0.7"/>
+
+<!-- B.Tech connectors -->
+<line x1="564" y1="200" x2="564" y2="232" class="conn"/>
+<line x1="504" y1="232" x2="624" y2="232" class="conn"/>
+<line x1="504" y1="232" x2="504" y2="264" class="conn"/>
+<line x1="624" y1="232" x2="624" y2="264" class="conn"/>
+<circle cx="504" cy="232" r="2.5" class="glow-dot" opacity="0.7"/>
+<circle cx="624" cy="232" r="2.5" class="glow-dot" opacity="0.7"/>
+
+<!-- LEAF ROW -->
+<rect x="12" y="264" width="88" height="56" rx="8" class="box-leaf"/>
+<text x="56" y="286" text-anchor="middle" class="lbl-leaf">Design</text>
+<text x="56" y="301" text-anchor="middle" class="lbl-sub">Branding</text>
+<text x="56" y="314" text-anchor="middle" class="lbl-sub">Visual identity</text>
+
+<rect x="132" y="264" width="88" height="56" rx="8" class="box-leaf"/>
+<text x="176" y="286" text-anchor="middle" class="lbl-leaf">Web Dev</text>
+<text x="176" y="301" text-anchor="middle" class="lbl-sub">Products</text>
+<text x="176" y="314" text-anchor="middle" class="lbl-sub">Client work</text>
+
+<rect x="236" y="264" width="88" height="56" rx="8" class="box-leaf"/>
+<text x="280" y="286" text-anchor="middle" class="lbl-leaf">MERN Stack</text>
+<text x="280" y="301" text-anchor="middle" class="lbl-sub">Next.js</text>
+<text x="280" y="314" text-anchor="middle" class="lbl-sub">TypeScript</text>
+
+<rect x="356" y="264" width="88" height="56" rx="8" class="box-leaf"/>
+<text x="400" y="286" text-anchor="middle" class="lbl-leaf">AI Tools</text>
+<text x="400" y="301" text-anchor="middle" class="lbl-sub">NLP</text>
+<text x="400" y="314" text-anchor="middle" class="lbl-sub">Resume AI</text>
+
+<rect x="460" y="264" width="88" height="56" rx="8" class="box-leaf"/>
+<text x="504" y="286" text-anchor="middle" class="lbl-leaf">DSA</text>
+<text x="504" y="301" text-anchor="middle" class="lbl-sub">Java</text>
+<text x="504" y="314" text-anchor="middle" class="lbl-sub">Patterns</text>
+
+<rect x="580" y="264" width="88" height="56" rx="8" class="box-leaf"/>
+<text x="624" y="286" text-anchor="middle" class="lbl-leaf">Sys Design</text>
+<text x="624" y="301" text-anchor="middle" class="lbl-sub">HLD · LLD</text>
+<text x="624" y="314" text-anchor="middle" class="lbl-sub">Architecture</text>
+
+<!-- GOAL BAR -->
+<rect x="160" y="360" width="360" height="48" rx="10" class="box-root"/>
+<text x="340" y="379" text-anchor="middle" class="lbl-root">Mission</text>
+<text x="340" y="398" text-anchor="middle" class="lbl-sub">Building impactful products · Targeting SDE roles · Open to collabs</text>
+
+<!-- Connectors to goal -->
+<line x1="116" y1="320" x2="116" y2="344" class="conn"/>
+<line x1="340" y1="320" x2="340" y2="344" class="conn"/>
+<line x1="564" y1="320" x2="564" y2="344" class="conn"/>
+<line x1="116" y1="344" x2="564" y2="344" class="conn"/>
+<line x1="340" y1="344" x2="340" y2="360" class="conn-top"/>
+<circle cx="340" cy="344" r="3.5" class="glow-dot"/>
+
+<!-- FOOTER -->
+<text x="340" y="440" text-anchor="middle" font-family="monospace" font-size="10" fill="#4a2080">Made with love by Amrita Singh</text>
+</svg>
