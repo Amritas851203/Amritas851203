@@ -31,24 +31,44 @@
 
 ## 💜 About Me
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<div align="center">
+
+<table>
 <tr>
-<td width="52%" valign="top">
+<td>
 
 ```yaml
-Name:      Amrita Singh
-Role:      Full Stack Developer & Intern @ Edubuk
-Status:    Founder @ GraphEra | B.Tech IT @ GGSIPU
-Mission:   Building products that create real impact
-Location:  Delhi, India 🇮🇳
-Open To:   SDE Roles · Internships · Collaborations
+Name:      Aditya Choubey
+Role:      B.Tech IT Student @ ADGIPS (GGSIPU)
+Status:    Aspiring Full Stack Developer & Graphic Designer
+Founder:   GraphEra | TechEra Community
+Mission:   Crafting impactful digital products & growing dev communities
+Location:  India 🇮🇳
 ```
 
 </td>
-<td width="4%"></td>
-<td width="44%" valign="top">
+</tr>
+</table>
 
-```yaml
+<br>
+
+<table>
+<tr>
+<td>
+
+🎯 **Currently Focused On:** Mastering Full Stack Development & Building Real-World Products
+
+🌱 **Currently Learning:** Advanced React, Backend Architecture & System Design
+
+🤝 **Open To:** Software Internships, Open Source Collaborations & Freelance Design Work
+
+⚡ **Fun Fact:** I design as much as I code — pixels and code are my playground!
+
+</td>
+</tr>
+</table>
+
+</div>
 🎯 Currently Focused On:
    Mastering Full Stack Dev &
    Building Real-World Products
