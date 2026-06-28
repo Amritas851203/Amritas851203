@@ -287,33 +287,13 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 
 <br/>
 
----
-
 ## 🌌 Amrita Singh Ecosystem
 
 <div align="center">
 
-<br/>
+<img src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/ecosystem.svg" width="100%"/>
 
-> 🔮 *A custom interactive ecosystem visualization is being designed. Drop back soon — something beautiful is coming. ✨*
-
-```
-                    ╔═══════════════════════════════╗
-                    ║    🌌   AMRITA'S  WORLD   🌌   ║
-                    ╚══════════════╦════════════════╝
-                                   ║
-          ┌────────────────────────╬───────────────────────┐
-          ║                        ║                       ║
-   ╔══════╩══════╗         ╔═══════╩══════╗       ╔═══════╩══════╗
-   ║  🚀 GraphEra ║         ║ 💻 Full Stack ║       ║ 🎓 B.Tech IT ║
-   ║   Startup   ║         ║     Dev      ║       ║  @ GGSIPU   ║
-   ╚══════╦══════╝         ╚═══════╦══════╝       ╚═══════╦══════╝
-          ║                        ║                       ║
-   ╔══════╩══════╗         ╔═══════╩══════╗       ╔═══════╩══════╗
-   ║ 🎨 Design   ║         ║ 🛠️ MERN Stack ║       ║ ☕ DSA Java  ║
-   ║  & Branding ║         ║  Next.js·TS  ║       ║   Patterns  ║
-   ╚═════════════╝         ╚══════════════╝       ╚═════════════╝
-```
+</div>
 
 <br/>
 
