@@ -2,19 +2,30 @@
 
 <img src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.jpeg" width="100%" alt="Amrita Singh Banner"/>
 
-</div>
+<br/>
 
-<!-- ═══════════════════ BANNER — DO NOT TOUCH ═══════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Hi+There%2C+I'm+Amrita+Singh+%F0%9F%91%8B;Full+Stack+Developer+%7C+Founder+%40+GraphEra;B.Tech+IT+%40+GGSIPU%2C+Delhi;Building+Products+That+Matter+%E2%9C%A8" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amritas851203&color=A970FF&style=for-the-badge&label=PROFILE+VIEWS)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Amritas851203&color=A970FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
-![Followers](https://img.shields.io/github/followers/Amritas851203?style=for-the-badge&color=7C4DFF&labelColor=120a2b&label=FOLLOWERS)
-&nbsp;
-![Open To Work](https://img.shields.io/badge/🟢_OPEN_TO_OPPORTUNITIES-120a2b?style=for-the-badge&labelColor=391459)
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Amritas851203&label=FOLLOWERS&query=followers&color=7C4DFF&style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
 <br/>
+
+<div align="center"><svg width="100%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0015"/>
+      <stop offset="50%" stop-color="#A970FF"/>
+      <stop offset="100%" stop-color="#0a0015"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g1)"/>
+</svg></div>
 
 ---
 
