@@ -259,20 +259,6 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 </div>
 <br/>
 
----
-
-## 💬 Developer Philosophy
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=20&duration=4000&pause=2000&color=A970FF&center=true&vCenter=true&width=780&lines=%E2%80%9CTechnology+becomes+meaningful+when+it+solves+real+problems.%E2%80%9D;%E2%80%9CBuild+with+intention.+Ship+with+purpose.%E2%80%9D;%E2%80%9CCode+is+craft.+Products+are+stories.%E2%80%9D" alt="Philosophy"/>
-
-</div>
-
-<br/>
-
----
-
 ## 📊 GitHub Profile Stats
 
 <div align="center">
@@ -307,6 +293,17 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 <br/>
 
 </div>
+---
+
+## 💬 Developer Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=20&duration=4000&pause=2000&color=A970FF&center=true&vCenter=true&width=780&lines=%E2%80%9CTechnology+becomes+meaningful+when+it+solves+real+problems.%E2%80%9D;%E2%80%9CBuild+with+intention.+Ship+with+purpose.%E2%80%9D;%E2%80%9CCode+is+craft.+Products+are+stories.%E2%80%9D" alt="Philosophy"/>
+
+</div>
+
+<br/>
 
 ---
 
