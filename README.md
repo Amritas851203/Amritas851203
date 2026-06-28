@@ -230,8 +230,31 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 ## ✨ Journey & Milestones
 
 <div align="center">
+2021  🎓  Joined B.Tech IT @ GGSIPU — where the journey began
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=400&color=A970FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=250&lines=2021+──►+🎓+Joined+B.Tech+IT+%40+GGSIPU+Delhi;++++++++│;2022+──►+💡+Fell+in+love+with+Full+Stack+Development;++++++++│;2023+──►+🚀+Founded+GraphEra+—+Design+%26+Tech+Startup;++++++++│;2024+──►+🏢+Full+Stack+Intern+%40+Edubuk+(Real-world+impact);++++++++│;2024+──►+🏆+Hackathon+Participant+—+Shipped+under+pressure;++++++++│;2025+──►+🌟+Community+Builder+—+Helping+peers+grow+in+tech;++++++++│;→+Now+──►+🔮+Building+Production+Systems+·+Seeking+SDE+Roles" alt="Journey Animation"/>
+│
+
+2022  💡  Discovered full stack dev — fell in love with building
+
+│
+
+2023  🚀  Founded GraphEra — design meets technology startup
+
+│
+
+2024  🏢  Full Stack Dev Intern @ Edubuk — real-world impact
+
+│
+
+2024  🏆  Hackathon Participant — shipped under pressure & won lessons
+
+│
+
+2025  🌟  Community builder — helping peers grow in tech
+
+│
+
+Now   🔮  Building production systems · Seeking SDE opportunities
 
 </div>
 
