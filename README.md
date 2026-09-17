@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.png" width="100%" alt="Amrita Singh Banner"/>
-
+<img src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.jpeg" width="100%" alt="Amrita Singh Banner"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Hi+There%2C+I'm+Amrita+Singh+%F0%9F%91%8B;Full+Stack+Developer+%7C+Founder+%40+GraphEra;B.Tech+IT+%40+GGSIPU%2C+Delhi;Building+Products+That+Matter+%E2%9C%A8" alt="Typing SVG" />
