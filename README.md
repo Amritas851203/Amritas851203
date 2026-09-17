@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.png"/>
+<img src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.png" width="100%" alt="Amrita Singh Banner"/>
 
 <br/>
 
