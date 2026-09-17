@@ -258,14 +258,13 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 
 </div>
 <br/>
-
 ## 📊 GitHub Profile Stats
 
 <div align="center">
 
 <!-- GitHub Stats -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=c9c9c9&icon_color=7C4DFF&border_color=4a2080&rank_icon=github&include_all_commits=true&count_private=true"
+  src="https://github-stats-extended.vercel.app/api?username=Amritas851203&show_icons=true&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=c9c9c9&icon_color=7C4DFF&border_color=4a2080&rank_icon=github&include_all_commits=true&count_private=true"
   height="180"
   alt="GitHub Stats"
 />
@@ -274,7 +273,7 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 
 <!-- Top Languages -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=donut&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=c9c9c9&border_color=4a2080&langs_count=6"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amritas851203&layout=donut&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=c9c9c9&border_color=4a2080&langs_count=6"
   height="180"
   alt="Top Languages"
 />
@@ -296,6 +295,11 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
   width="96%"
   alt="Contribution Graph"
 />
+
+</div>
+
+<br/>
+</div>
 
 </div>
 
