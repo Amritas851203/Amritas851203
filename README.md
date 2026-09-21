@@ -262,21 +262,25 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 
 <div align="center">
 
-<!-- Streak: current + longest -->
+<!-- GitHub Streak - Updates from GitHub contributions -->
 <img
-  src="https://streak-stats.demolab.com/?user=Amritas851203&theme=midnight-purple&background=0d0722&ring=A970FF&fire=7C4DFF&currStreakLabel=A970FF&sideLabels=b39ddb&border=4a2080&dates=8e8e93&hide_border=false"
+  src="https://streak-stats.demolab.com/?user=Amritas851203&theme=midnight-purple&background=0d0722&ring=A970FF&fire=7C4DFF&currStreakLabel=A970FF&sideLabels=b39ddb&border=4a2080&dates=8e8e93&hide_border=false&timezone=Asia%2FKolkata"
   width="70%"
   alt="GitHub Streak"
 />
 
 <br/><br/>
 
-<!-- Contribution snake -->
+<!-- Contribution Snake -->
 <img
   src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/output/github-snake-dark.svg"
   width="96%"
   alt="Contribution Snake"
 />
+
+</div>
+
+<br/>
 
 </div>
 
