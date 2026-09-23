@@ -273,7 +273,7 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 
 <!-- Contribution snake -->
 <img
-  src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/output/github-snake-dark.svg"
+  src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/output/github-snake-dark.svg?v=1"
   width="96%"
   alt="Contribution Snake"
 />
