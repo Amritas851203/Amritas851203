@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/main/banneramrita.jpeg" width="100%" alt="Amrita Singh Banner"/>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Hi+There%2C+I'm+Amrita+Singh+%F0%9F%91%8B;Full+Stack+Developer+%7C+Founder+%40+GraphEra;B.Tech+IT+%40+GGSIPU%2C+Delhi;Building+Products+That+Matter+%E2%9C%A8" alt="Typing SVG" />
@@ -27,23 +26,28 @@
   <rect width="1000" height="6" rx="3" fill="url(#g1)"/>
 </svg></div>
 
-💜 About Me
+---
+
+## 💜 About Me
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="52%" valign="top">
 
+```yaml
 Name:      Amrita Singh
 Role:      Full Stack Developer & Intern @ Edubuk
 Status:    Founder @ GraphEra | B.Tech IT @ GGSIPU
 Mission:   Building products that create real impact
 Location:  Delhi, India 🇮🇳
 Open To:   SDE Roles · Internships · Collaborations
+```
 
 </td>
 <td width="4%"></td>
 <td width="44%" valign="top">
 
+```yaml
 🎯 Currently Focused On:
    Mastering Full Stack Dev &
    Building Real-World Products
@@ -55,6 +59,7 @@ Open To:   SDE Roles · Internships · Collaborations
 ⚡ Fun Fact:
    I design as much as I code!
    Pixels & code are my world.
+```
 
 </td>
 </tr>
@@ -62,7 +67,9 @@ Open To:   SDE Roles · Internships · Collaborations
 
 <br/>
 
-🛠️ Tech Arsenal
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -121,30 +128,32 @@ Open To:   SDE Roles · Internships · Collaborations
 
 <br/>
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td width="49%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 20px;">
 
-📈 Real-Time Stock Screener
+**📈 Real-Time Stock Screener**
 
 Advanced stock analysis platform with live charts, TradingView-style indicators, and smart filters. Built for precision investors.
 
-
-
-
+![Next.js](https://img.shields.io/badge/Next.js-A970FF?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7C4DFF?style=flat-square&logo=typescript&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Building_🔧-391459?style=flat-square)
 
 </td>
 <td width="2%"></td>
 <td width="49%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 20px;">
 
-🏢 Smart Complaint Portal
+**🏢 Smart Complaint Portal**
 
 Campus management system enabling students & faculty to raise, track, and resolve grievances in real-time with admin dashboards.
 
-
-
+![MERN](https://img.shields.io/badge/MERN_Stack-A970FF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live_✅-391459?style=flat-square)
 
 </td>
 </tr>
@@ -154,24 +163,24 @@ Campus management system enabling students & faculty to raise, track, and resolv
 <tr>
 <td width="49%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 20px;">
 
-🔮 GraphEra Website
+**🔮 GraphEra Website**
 
 Official website for my design-focused creative tech startup. Clean, bold, and built to convert visitors into clients.
 
-
-
-
+![React](https://img.shields.io/badge/React-A970FF?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-7C4DFF?style=flat-square&logo=tailwindcss&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live_✅-391459?style=flat-square)
 
 </td>
 <td width="2%"></td>
 <td width="49%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 20px;">
 
-💼 Personal Finance Tracker
+**💼 Personal Finance Tracker**
 
 Expense management dashboard with spending insights, category analysis, and monthly trend visualization for smarter decisions.
 
-
-
+![MERN](https://img.shields.io/badge/MERN_Stack-A970FF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete_🎉-391459?style=flat-square)
 
 </td>
 </tr>
@@ -181,25 +190,25 @@ Expense management dashboard with spending insights, category analysis, and mont
 <tr>
 <td width="49%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 20px;">
 
-🤖 AI Resume Analyzer
+**🤖 AI Resume Analyzer**
 
 NLP-powered tool that reads your resume, identifies gaps, and generates specific improvement suggestions to land more interviews.
 
-
-
-
+![Python](https://img.shields.io/badge/Python-A970FF?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7C4DFF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete_🎉-391459?style=flat-square)
 
 </td>
 <td width="2%"></td>
 <td width="49%" valign="top" bgcolor="#0d0722" style="border: 1.5px solid #4a2080; border-radius: 14px; padding: 20px;">
 
-👤 Developer Portfolio
+**👤 Developer Portfolio**
 
 Personal portfolio to showcase projects, skills, and story. Designed with animation-first approach and responsive across all devices.
 
-
-
-
+![React](https://img.shields.io/badge/React-A970FF?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-7C4DFF?style=flat-square&logo=tailwindcss&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live_✅-391459?style=flat-square)
 
 </td>
 </tr>
@@ -207,152 +216,71 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 
 <br/>
 
-🎯 Current Focus
+---
+
+## 🎯 Current Focus
 
 <div align="center">
 
-
-
-Area
-
-Status
-
-Details
-
-☕
-
-DSA
-
-
-
-Java · Problem Patterns
-
-⚙️
-
-Backend Engineering
-
-
-
-REST APIs · Auth · DBs
-
-🌐
-
-Full Stack Builds
-
-
-
-End-to-end products
-
-🧠
-
-System Design
-
-
-
-HLD · LLD
-
-🤝
-
-Open Source
-
-
-
-Contributing to projects
-
-🚀
-
-Product — GraphEra
-
-
-
-Building & scaling
+| | Area | Status | Details |
+|:--:|:------|:------:|:--------|
+| ☕ | **DSA** | ![](https://img.shields.io/badge/Active-A970FF?style=flat-square) | Java · Problem Patterns |
+| ⚙️ | **Backend Engineering** | ![](https://img.shields.io/badge/Active-A970FF?style=flat-square) | REST APIs · Auth · DBs |
+| 🌐 | **Full Stack Builds** | ![](https://img.shields.io/badge/Active-7C4DFF?style=flat-square) | End-to-end products |
+| 🧠 | **System Design** | ![](https://img.shields.io/badge/Learning-391459?style=flat-square) | HLD · LLD |
+| 🤝 | **Open Source** | ![](https://img.shields.io/badge/Starting-391459?style=flat-square) | Contributing to projects |
+| 🚀 | **Product — GraphEra** | ![](https://img.shields.io/badge/Active-A970FF?style=flat-square) | Building & scaling |
 
 </div>
 
 <br/>
 
-✨ Journey & Milestones
+---
+
+## ✨ Journey & Milestones
 
 <div align="center">
 
-🗓️ Year
-
-🚀 Milestone
-
-2024
-
-🎓 Joined B.Tech IT @ GGSIPU Delhi — where the journey began
-
-↓
-
-
-
-2025
-
-💡 Fell in love with Full Stack Development
-
-↓
-
-
-
-2025
-
-🚀 Founded GraphEra — Design meets Technology Startup
-
-↓
-
-
-
-2026
-
-🏢 Full Stack Dev Intern @ Edubuk — Real-world impact
-
-↓
-
-
-
-2026
-
-🌟 Community Builder — Helping peers grow in tech
-
-↓
-
-
-
-→ Now
-
-🔮 Building production systems · Seeking SDE opportunities
+| 🗓️ Year | 🚀 Milestone |
+|:-------:|:------------|
+| **2024** | 🎓 Joined B.Tech IT @ GGSIPU Delhi — where the journey began |
+| ↓ | |
+| **2025** | 💡 Fell in love with Full Stack Development |
+| ↓ | |
+| **2025** | 🚀 Founded GraphEra — Design meets Technology Startup |
+| ↓ | |
+| **2026** | 🏢 Full Stack Dev Intern @ Edubuk — Real-world impact |
+| ↓ | |
+| **2026** | 🌟 Community Builder — Helping peers grow in tech |
+| ↓ | |
+| **→ Now** | 🔮 Building production systems · Seeking SDE opportunities |
 
 </div>
 <br/>
 
-📊 GitHub Profile Stats
+## 📊 GitHub Profile Stats
 
 <div align="center">
 
-<!-- Row 1: Stats + Languages -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amritas851203&show_icons=true&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=c9c9c9&icon_color=7C4DFF&border_color=4a2080&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritas851203&layout=donut&theme=midnight-purple&bg_color=0d0722&title_color=A970FF&text_color=c9c9c9&border_color=4a2080&langs_count=6&hide_border=false" height="180" alt="Top Languages"/>
+<!-- Streak: current + longest -->
+<img
+  src="https://streak-stats.demolab.com/?user=Amritas851203&theme=midnight-purple&background=0d0722&ring=A970FF&fire=7C4DFF&currStreakLabel=A970FF&sideLabels=b39ddb&border=4a2080&dates=8e8e93&hide_border=false"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 <br/><br/>
 
-<!-- Row 2: Streak Stats -->
-
-<img src="https://streak-stats.demolab.com?user=Amritas851203&theme=midnight-purple&background=0d0722&ring=A970FF&fire=7C4DFF&currStreakLabel=A970FF&sideLabels=b39ddb&border=4a2080&dates=8e8e93&hide_border=false" width="70%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- Row 3: Contribution Activity Graph -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amritas851203&bg_color=0d0722&color=A970FF&line=7C4DFF&point=ffffff&area=true&area_color=2a1060&hide_border=false&border_color=4a2080&radius=6" width="96%" alt="Contribution Graph"/>
+<!-- Contribution snake -->
+<img
+  src="https://raw.githubusercontent.com/Amritas851203/Amritas851203/output/github-snake-dark.svg"
+  width="96%"
+  alt="Contribution Snake"
+/>
 
 </div>
 
-<br/>
-
-🌌 Amrita Singh Ecosystem
+## 🌌 Amrita Singh Ecosystem
 
 <div align="center">
 
@@ -362,9 +290,7 @@ Building & scaling
 
 <br/>
 
-</div>
-
-💬 Developer Philosophy
+## 💬 Developer Philosophy
 
 <div align="center">
 
@@ -374,23 +300,27 @@ Building & scaling
 
 <br/>
 
-🔗 Connect With Me
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
 
 <br/>
 
-
- 
-
- 
-
- 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0722)](https://linkedin.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-See_My_Work-A970FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0722)](https://github.com/Amritas851203)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0722)](mailto:amritasingh3830ff@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0722)](https://portfolio.com)
 
 <br/><br/>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -398,6 +328,6 @@ Building & scaling
 
 <br/>
 
-✦ Made with 💜 by Amrita Singh · Building impact, one commit at a time ✦
+*✦ Made with 💜 by Amrita Singh · Building impact, one commit at a time ✦*
 
 </div>
