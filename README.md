@@ -264,7 +264,7 @@ Personal portfolio to showcase projects, skills, and story. Designed with animat
 
 <!-- Streak: current + longest -->
 <img
-  src="https://streak-stats.demolab.com/?user=Amritas851203&theme=midnight-purple&background=0d0722&ring=A970FF&fire=7C4DFF&currStreakLabel=A970FF&sideLabels=b39ddb&border=4a2080&dates=8e8e93&hide_border=false&cache_seconds=1800"
+  src="https://streak-stats.demolab.com/?user=Amritas851203&theme=midnight-purple&background=0d0722&ring=A970FF&fire=7C4DFF&currStreakLabel=A970FF&sideLabels=b39ddb&border=4a2080&dates=8e8e93&hide_border=false&cache_seconds=300"
   width="70%"
   alt="GitHub Streak"
 />
