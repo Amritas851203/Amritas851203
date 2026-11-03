@@ -1,1 +1,120 @@
+name: Streak Card
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    name: Generate streak card
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build streak SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, sys, datetime as dt, urllib.request
+
+          USER = "Amritas851203"
+          TOKEN = os.environ.get("GITHUB_TOKEN", "")
+          OUT = "streak/streak.svg"
+
+          def gql(query, variables):
+              req = urllib.request.Request(
+                  "https://api.github.com/graphql",
+                  data=json.dumps({"query": query, "variables": variables}).encode(),
+                  headers={"Authorization": "bearer " + TOKEN, "Content-Type": "application/json", "User-Agent": "streak-card"},
+              )
+              with urllib.request.urlopen(req, timeout=60) as r:
+                  data = json.load(r)
+              if "errors" in data:
+                  print(data["errors"]); sys.exit(1)
+              return data["data"]
+
+          def fetch_days():
+              q1 = "query($u:String!){user(login:$u){createdAt}}"
+              created = gql(q1, {"u": USER})["user"]["createdAt"][:10]
+              start = dt.date.fromisoformat(created)
+              today = dt.datetime.utcnow().date() + dt.timedelta(days=1)
+              q = """query($u:String!,$f:DateTime!,$t:DateTime!){user(login:$u){contributionsCollection(from:$f,to:$t){
+                contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}"""
+              days = {}
+              y = start.year
+              while y <= today.year:
+                  f = max(start, dt.date(y, 1, 1)); t = min(today, dt.date(y, 12, 31))
+                  res = gql(q, {"u": USER, "f": f.isoformat() + "T00:00:00Z", "t": t.isoformat() + "T23:59:59Z"})
+                  for w in res["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]:
+                      for d in w["contributionDays"]:
+                          days[dt.date.fromisoformat(d["date"])] = d["contributionCount"]
+                  y += 1
+              return days
+
+          days = fetch_days()
+          dates = sorted(days)
+          first_active = next((d for d in dates if days[d] > 0), dates[0])
+          total = sum(days.values())
+
+          # longest streak
+          best = (0, None, None); run = 0; rs = None
+          for d in dates:
+              if days[d] > 0:
+                  if run == 0: rs = d
+                  run += 1
+                  if run > best[0]: best = (run, rs, d)
+              else:
+                  run = 0
+
+          # current streak (today with 0 contributions does not break it yet)
+          last = dates[-1]
+          i = len(dates) - 1
+          if days[dates[i]] == 0: i -= 1
+          cur = 0; cend = dates[i] if i >= 0 else None
+          while i >= 0 and days[dates[i]] > 0:
+              cur += 1; cstart = dates[i]; i -= 1
+
+          def fmt(d): return d.strftime("%b ") + str(d.day)
+          def rng(n, a, b): return (fmt(a) + " - " + fmt(b)) if n > 0 else "No streak yet"
+
+          BG, BORDER, RING, FIRE, LABEL, SIDE, DATE = "#0d0722", "#4a2080", "#A970FF", "#7C4DFF", "#A970FF", "#b39ddb", "#8e8e93"
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub streak">
+          <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="{BG}" stroke="{BORDER}"/>
+          <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" text-anchor="middle">
+          <text x="82" y="82" font-size="28" font-weight="700" fill="{LABEL}">{total}</text>
+          <text x="82" y="112" font-size="14" fill="{SIDE}">Total Contributions</text>
+          <text x="82" y="140" font-size="12" fill="{DATE}">{fmt(first_active)}, {first_active.year} - Present</text>
+          <line x1="165" y1="30" x2="165" y2="165" stroke="{SIDE}" stroke-opacity="0.5"/>
+          <circle cx="247.5" cy="82" r="40" fill="none" stroke="{RING}" stroke-width="5"/>
+          <path d="M247.5 34 c4 5 8 9 8 15 a8 8 0 0 1 -16 0 c0 -3 1 -5 3 -7 c0 3 2 4 3 4 c-1 -4 0 -8 2 -12z" fill="{FIRE}"/>
+          <text x="247.5" y="92" font-size="28" font-weight="700" fill="{LABEL}">{cur}</text>
+          <text x="247.5" y="140" font-size="14" font-weight="700" fill="{RING}">Current Streak</text>
+          <text x="247.5" y="162" font-size="12" fill="{DATE}">{rng(cur, cstart, cend) if cur else "No streak yet"}</text>
+          <line x1="330" y1="30" x2="330" y2="165" stroke="{SIDE}" stroke-opacity="0.5"/>
+          <text x="412" y="82" font-size="28" font-weight="700" fill="{LABEL}">{best[0]}</text>
+          <text x="412" y="112" font-size="14" fill="{SIDE}">Longest Streak</text>
+          <text x="412" y="140" font-size="12" fill="{DATE}">{rng(best[0], best[1], best[2]) if best[0] else "-"}</text>
+          </g></svg>'''
+          os.makedirs(os.path.dirname(OUT), exist_ok=True)
+          open(OUT, "w", encoding="utf-8").write(svg)
+          print("total", total, "current", cur, "longest", best[0])
+          PY
+
+      - name: Commit streak card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streak/streak.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update streak card"
+            git pull --rebase origin main || true
+            git push origin HEAD:main
+          fi
